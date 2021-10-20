@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Indiecast</title>
+	<atom:link href="https://indiecast.com.br/feed/podcast" rel="self" type="application/rss+xml" />
+	<link>https://indiecast.com.br</link>
+	<description>Podcast, resenhas e notícias sobre jogos indie.</description>
+	<lastBuildDate>Tue, 03 Mar 2020 10:50:19 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<!-- podcast_generator="Blubrry PowerPress/8.7.4" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Podcast, resenhas e notícias sobre jogos indie.</itunes:summary>
+	<itunes:author>Indiecast</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://indiecast.com.br/wp-content/uploads/2016/10/logo_3000.png" />
+	<itunes:owner>
+		<itunes:name>Indiecast</itunes:name>
+		<itunes:email>contato@indiecast.com.br</itunes:email>
+	</itunes:owner>
+	<managingEditor>contato@indiecast.com.br (Indiecast)</managingEditor>
+	<itunes:subtitle>Podcast, resenhas e notícias sobre jogos indie.</itunes:subtitle>
+	<image>
+		<title>Indiecast</title>
+		<url>https://indiecast.com.br/wp-content/uploads/2016/10/logo_3000.png</url>
+		<link>https://indiecast.com.br</link>
+	</image>
+	<itunes:category text="Leisure">
+		<itunes:category text="Games" />
+	</itunes:category>
+	<googleplay:category text="Games &amp; Hobbies"/>
+	<rawvoice:rating>TV-14</rawvoice:rating>
+	<rawvoice:frequency>Semanal</rawvoice:frequency>
+	<rawvoice:subscribe feed="https://indiecast.com.br/feed/podcast" itunes="https://geo.itunes.apple.com/br/podcast/indiecast/id1116449758?mt=2"></rawvoice:subscribe>
+	<item>
+		<title>Encerramento do ano 1</title>
+		<link>https://indiecast.com.br/indiecast/encerramento-ano-1</link>
+		<pubDate>Tue, 18 Apr 2017 09:26:14 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=619</guid>
+		<comments>https://indiecast.com.br/indiecast/encerramento-ano-1#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/encerramento-ano-1/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<description>Chegamos ao fim do primeiro ciclo do Indiecast!
+
+Muito obrigado aos nossos ouvintes por este excelente e divertido ano de Indiecast.
+
+Vamos entrar em um período de férias e de atualização e esperamos retornar em breve.
+
+Abraços de toda a equipe (Moreira, Prado e Braccialli).</description>
+		<content:encoded><![CDATA[<p>Chegamos ao fim do primeiro ciclo do Indiecast!</p>
+<p>Muito obrigado aos nossos ouvintes por este excelente e divertido ano de Indiecast.</p>
+<p>Vamos entrar em um período de férias e de atualização e esperamos retornar em breve.</p>
+<p>Abraços de toda a equipe (Moreira, Prado e Braccialli).</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-048-Encerramento-ano-1.mp3" length="770451" type="audio/mpeg" />
+		<itunes:subtitle>Chegamos ao fim do primeiro ciclo do Indiecast! - Muito obrigado aos nossos ouvintes por este excelente e divertido ano de Indiecast. - Vamos entrar em um período de férias e de atualização e esperamos retornar em breve. - </itunes:subtitle>
+		<itunes:summary>Chegamos ao fim do primeiro ciclo do Indiecast!&lt;br /&gt;
+&lt;br /&gt;
+Muito obrigado aos nossos ouvintes por este excelente e divertido ano de Indiecast.&lt;br /&gt;
+&lt;br /&gt;
+Vamos entrar em um período de férias e de atualização e esperamos retornar em breve.&lt;br /&gt;
+&lt;br /&gt;
+Abraços de toda a equipe (Moreira, Prado e Braccialli).</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:19</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 47 &#8211; Helldivers</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-47-helldivers</link>
+		<pubDate>Tue, 11 Apr 2017 09:09:43 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=610</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-47-helldivers#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-47-helldivers/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<description>No cast desta semana Tiago Braccialli, Guilherme Prado e Guilherme Moreira falam do twin-stick shooter Helldivers.
+Helldivers
+Helldivers é um shooter topdon que se passa em um futuro distópico no qual a humanidade é governada por uma democracia dirigida. Você faz parte dos Helldivers - a nata da defesa da humanidade contra as ameaças alienígenas permanentes à Super Terra</description>
+		<content:encoded><![CDATA[<p>No cast desta semana Tiago Braccialli, Guilherme Prado e Guilherme Moreira falam do twin-stick shooter Helldivers.</p>
+<h3>Helldivers</h3>
+<p>Helldivers é um shooter topdon que se passa em um futuro distópico no qual a humanidade é governada por uma democracia dirigida. Você faz parte dos Helldivers &#8211; a nata da defesa da humanidade contra as ameaças alienígenas permanentes à Super Terra</p>
+<p><img loading="lazy" class="alignnone size-large wp-image-611" src="https://indiecast.com.br/wp-content/uploads/2017/04/Bug-Hive-Lord-1024x576-1024x576.png" alt="" width="800" height="450" srcset="https://indiecast.com.br/wp-content/uploads/2017/04/Bug-Hive-Lord-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/04/Bug-Hive-Lord-1024x576-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/04/Bug-Hive-Lord-1024x576-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /> <img loading="lazy" class="alignnone size-large wp-image-612" src="https://indiecast.com.br/wp-content/uploads/2017/04/HELLDIVERS-cyborg-snow-truth-transmitter-1024x576-1024x576.png" alt="" width="800" height="450" srcset="https://indiecast.com.br/wp-content/uploads/2017/04/HELLDIVERS-cyborg-snow-truth-transmitter-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/04/HELLDIVERS-cyborg-snow-truth-transmitter-1024x576-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/04/HELLDIVERS-cyborg-snow-truth-transmitter-1024x576-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-047-Helldivers.mp3" length="19425927" type="audio/mpeg" />
+		<itunes:subtitle>No cast desta semana Tiago Braccialli, Guilherme Prado e Guilherme Moreira falam do twin-stick shooter Helldivers. Helldivers Helldivers é um shooter topdon que se passa em um futuro distópico no qual a humanidade é governada por uma democracia dirig...</itunes:subtitle>
+		<itunes:summary>No cast desta semana Tiago Braccialli, Guilherme Prado e Guilherme Moreira falam do twin-stick shooter Helldivers.&lt;br /&gt;
+Helldivers&lt;br /&gt;
+Helldivers é um shooter topdon que se passa em um futuro distópico no qual a humanidade é governada por uma democracia dirigida. Você faz parte dos Helldivers - a nata da defesa da humanidade contra as ameaças alienígenas permanentes à Super Terra</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:22</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/04/cover-1.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 46 &#8211; Faster Than Light &#8211; FTL</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-46-faster-than-light-ftl</link>
+		<pubDate>Tue, 04 Apr 2017 03:12:40 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=602</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-46-faster-than-light-ftl#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-46-faster-than-light-ftl/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<description>No podcast desta semana Prado, Moreira e Braccialli vestem o traje espacial para discutir o rogue like de simulação espacial FTL.
+
+FTL
+
+FTL: Faster Than Light é um simulador de nave espacial com visão de cima para baixo criado pela Subset Games. Foi lançado pela primeira vez para Microsoft Windows, Macintosh e Linux em 14 de setembro de 2012.
+
+No jogo, você controla a tripulação de uma única nave espacial, carregando informações críticas para serem entregues a uma frota aliada oito setores de distância, enquanto é perseguido por uma frota rebelde grande. O jogador deve guiar a nave espacial ao longo de oito setores, cada um com sistemas e eventos processualmente gerados no estilo roguelike, enquanto enfrenta rebeldes e outras forças hostis, recruta novos tripulantes, adquire equipamentos e faz upgrades a sua nave.</description>
+		<content:encoded><![CDATA[<p>No podcast desta semana Prado, Moreira e Braccialli vestem o traje espacial para discutir o rogue like de simulação espacial FTL.</p>
+<h3>FTL</h3>
+<p>FTL: Faster Than Light é um simulador de nave espacial com visão de cima para baixo criado pela Subset Games. Foi lançado pela primeira vez para Microsoft Windows, Macintosh e Linux em 14 de setembro de 2012.</p>
+<p>No jogo, você controla a tripulação de uma única nave espacial, carregando informações críticas para serem entregues a uma frota aliada oito setores de distância, enquanto é perseguido por uma frota rebelde grande. O jogador deve guiar a nave espacial ao longo de oito setores, cada um com sistemas e eventos processualmente gerados no estilo roguelike, enquanto enfrenta rebeldes e outras forças hostis, recruta novos tripulantes, adquire equipamentos e faz upgrades a sua nave.</p>
+<p><img loading="lazy" class="alignnone size-large wp-image-606" src="https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot1-1024x576.png" alt="" width="800" height="450" srcset="https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot1-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot1-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot1-768x432.png 768w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot1.png 1280w" sizes="(max-width: 800px) 100vw, 800px" /> <img loading="lazy" class="alignnone size-large wp-image-607" src="https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot2-1024x576.png" alt="" width="800" height="450" srcset="https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot2-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot2-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot2-768x432.png 768w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot2.png 1280w" sizes="(max-width: 800px) 100vw, 800px" /> <img loading="lazy" class="alignnone size-large wp-image-608" src="https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot3-1024x576.png" alt="" width="800" height="450" srcset="https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot3-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot3-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot3-768x432.png 768w, https://indiecast.com.br/wp-content/uploads/2017/04/FTL_screenshot3.png 1280w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-046-FTL.mp3" length="16459787" type="audio/mpeg" />
+		<itunes:subtitle>No podcast desta semana Prado, Moreira e Braccialli vestem o traje espacial para discutir o rogue like de simulação espacial FTL. - FTL - FTL: Faster Than Light é um simulador de nave espacial com visão de cima para baixo criado pela Subset Games.</itunes:subtitle>
+		<itunes:summary>No podcast desta semana Prado, Moreira e Braccialli vestem o traje espacial para discutir o rogue like de simulação espacial FTL.&lt;br /&gt;
+&lt;br /&gt;
+FTL&lt;br /&gt;
+&lt;br /&gt;
+FTL: Faster Than Light é um simulador de nave espacial com visão de cima para baixo criado pela Subset Games. Foi lançado pela primeira vez para Microsoft Windows, Macintosh e Linux em 14 de setembro de 2012.&lt;br /&gt;
+&lt;br /&gt;
+No jogo, você controla a tripulação de uma única nave espacial, carregando informações críticas para serem entregues a uma frota aliada oito setores de distância, enquanto é perseguido por uma frota rebelde grande. O jogador deve guiar a nave espacial ao longo de oito setores, cada um com sistemas e eventos processualmente gerados no estilo roguelike, enquanto enfrenta rebeldes e outras forças hostis, recruta novos tripulantes, adquire equipamentos e faz upgrades a sua nave.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:17</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/04/cover.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 45 &#8211; Viagens interestelares, nave geracional e o projeto Orion</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-45-viagens-interestelares-nave-geracional-e-o-projeto-orion</link>
+		<pubDate>Tue, 28 Mar 2017 00:25:40 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=597</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-45-viagens-interestelares-nave-geracional-e-o-projeto-orion#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-45-viagens-interestelares-nave-geracional-e-o-projeto-orion/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<description>No podcast desta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli embarcam nas possibilidades de viagens interestelares e de nave geracional.
+
+Primeiro falamos do sistema planetário Trapista como motivador da pauta. Depois o trio explora um pouco como a ficção científica é um motor importante da ciência, trazendo os pais da idea de nave geracional: Robert H. Goddard, Konstantin E. Tsiolkovsky e John D. Bernals.
+
+Em seguida falam sobre o que é uma nave geracional, quais objetivos e dificuldades de encarar tamanha odisséia. Os problemas do confinamento por anos, da ausência de liberdades e opções e dos problemas sociais e éticos dessa jornada.
+
+Para finalizar o projeto Orion, que por pouco não serviu de base para execução do mais projeto da humanidade.</description>
+		<content:encoded><![CDATA[<p>No podcast desta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli embarcam nas possibilidades de viagens interestelares e de nave geracional.</p>
+<p>Primeiro falamos do sistema planetário Trapista como motivador da pauta. Depois o trio explora um pouco como a ficção científica é um motor importante da ciência, trazendo os pais da idea de nave geracional: Robert H. Goddard, Konstantin E. Tsiolkovsky e John D. Bernals.</p>
+<p>Em seguida falam sobre o que é uma nave geracional, quais objetivos e dificuldades de encarar tamanha odisséia. Os problemas do confinamento por anos, da ausência de liberdades e opções e dos problemas sociais e éticos dessa jornada.</p>
+<p>Para finalizar o projeto Orion, que por pouco não serviu de base para execução do maior projeto da humanidade.</p>
+<h3>Robert H. Goddard</h3>
+<p>Pioneiro da tecnologia de foguetes, foi o primeiro a escrever sobre viagens interestelares de longa duração na história &#8220;The Last Migration&#8221; (A Última Migração, em tradução livre).</p>
+<p>Nessa obra, a eminente morte do Sol cria a necessidade de construção de uma Arca Interestelar para salvar a humanidade. Os viajantes ficam em estado dormente durante os séculos de duração da viagem, sendo acordados ao chegarem no destino.</p>
+<h3>Konstantin E. Tsiolkovsky</h3>
+<p>Pai da teoria astronáutica e o primeiro a descrever a necessidade de múltiplas gerações para concluir uma viagem interestelar. Em seu texto &#8220;The Future of Earth and Mankind&#8221; (O Futuro da Terra e da Humanidade) explorou a ideia de uma colônia espacial capaz de voar que viaja por milhares de anos pelo universo.</p>
+<h3>John D. Bernals&#8217;s</h3>
+<p>Foi autor que primeiro influenciou o público e outros autores de ficção científica quanto as dificuldades e possibilidades da humanidade no espaço. Escreveu sobre a evolução e o futuro da humanidade, sendo o primeiro autor a descrever uma nave geracional.</p>
+<h3>Project Orion</h3>
+<p>Foi um estudo que propunha usar explosões nucleares como forma de propulsão de um veículo espacial. Nas primeiras versões a decolagem seria feita da Terra, deixando dejetos radioativos. Versões posteriores propuseram a utilização apenas no espaço.</p>
+<p>Seria uma forma viável e plausível de se obter velocidades mais próximas a da luz (entre 0,3% e 4% da velocidade da luz).</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-045-Nave-Geracional.mp3" length="32169922" type="audio/mpeg" />
+		<itunes:subtitle>No podcast desta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli embarcam nas possibilidades de viagens interestelares e de nave geracional. - Primeiro falamos do sistema planetário Trapista como motivador da pauta.</itunes:subtitle>
+		<itunes:summary>No podcast desta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli embarcam nas possibilidades de viagens interestelares e de nave geracional.&lt;br /&gt;
+&lt;br /&gt;
+Primeiro falamos do sistema planetário Trapista como motivador da pauta. Depois o trio explora um pouco como a ficção científica é um motor importante da ciência, trazendo os pais da idea de nave geracional: Robert H. Goddard, Konstantin E. Tsiolkovsky e John D. Bernals.&lt;br /&gt;
+&lt;br /&gt;
+Em seguida falam sobre o que é uma nave geracional, quais objetivos e dificuldades de encarar tamanha odisséia. Os problemas do confinamento por anos, da ausência de liberdades e opções e dos problemas sociais e éticos dessa jornada.&lt;br /&gt;
+&lt;br /&gt;
+Para finalizar o projeto Orion, que por pouco não serviu de base para execução do mais projeto da humanidade.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:01:36</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/03/cover-2.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 44B &#8211; Banner Saga</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-44b-banner-saga</link>
+		<pubDate>Tue, 21 Mar 2017 09:23:24 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=589</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-44b-banner-saga#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-44b-banner-saga/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<description>Com o apoio dos deuses nórdicos, Guilherme Moreira, Guilherme Prado eTiago Braccialli comentam essa semana do jogo de RPG tático Banner Saga.</description>
+		<content:encoded><![CDATA[<p>Com o apoio dos deuses nórdicos, Guilherme Moreira, Guilherme Prado e Tiago Braccialli comentam essa semana do jogo de RPG tático Banner Saga.</p>
+<p>Não se esqueça também de ouvir o <a href="https://indiecast.com.br/indiecast/indiecast-44a-maus-historia-em-quadrinhos-que-ganhou-um-premio-pulitzer">episódio Lado A &#8211; sobre Maus, a HQ que ganhou um Pulitzer.</a></p>
+<p>&nbsp;</p>
+<h3><a href="http://stoicstudio.com/">Banner Saga</a></h3>
+<p>Jogo de RPG tático. O núcleo do jogo é a campanha single-player com elementos inspirados em Final Fantasy Tactics e Shinning Force em que o jogador forma grupos de personagens com habilidades para combater em batalhas por turno.</p>
+<p>O jogo tem gráficos e  sistema de combate que se destacam</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-590" src="https://indiecast.com.br/wp-content/uploads/2017/03/6.png" alt="" width="789" height="444" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/6.png 789w, https://indiecast.com.br/wp-content/uploads/2017/03/6-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/03/6-768x432.png 768w" sizes="(max-width: 789px) 100vw, 789px" /> <img loading="lazy" class="alignnone size-large wp-image-591" src="https://indiecast.com.br/wp-content/uploads/2017/03/7.png" alt="" width="789" height="444" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/7.png 789w, https://indiecast.com.br/wp-content/uploads/2017/03/7-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/03/7-768x432.png 768w" sizes="(max-width: 789px) 100vw, 789px" /> <img loading="lazy" class="alignnone size-large wp-image-592" src="https://indiecast.com.br/wp-content/uploads/2017/03/9.png" alt="" width="800" height="435" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/9.png 816w, https://indiecast.com.br/wp-content/uploads/2017/03/9-300x163.png 300w, https://indiecast.com.br/wp-content/uploads/2017/03/9-768x418.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3>Deixe seu recado</h3>
+<p>Jogou The Banner Saga? Era fã de Final Fantasy Tactics, Ogre Battle ou Shinning Force?</p>
+<p>Não se esqueça de dar um like/retweet em nossas redes sociais, contamos com vocês!</p>
+<p>Deixe sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima segunda.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-044-B-Banner-Saga.mp3" length="16050677" type="audio/mpeg" />
+		<itunes:subtitle>Com o apoio dos deuses nórdicos, Guilherme Moreira, Guilherme Prado eTiago Braccialli comentam essa semana do jogo de RPG tático Banner Saga.</itunes:subtitle>
+		<itunes:summary>Com o apoio dos deuses nórdicos, Guilherme Moreira, Guilherme Prado eTiago Braccialli comentam essa semana do jogo de RPG tático Banner Saga.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:40</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/03/coverB-1.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 44A &#8211; Maus a história em quadrinhos que ganhou um premio Pulitzer</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-44a-maus-historia-em-quadrinhos-que-ganhou-um-premio-pulitzer</link>
+		<pubDate>Mon, 20 Mar 2017 09:34:44 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=581</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-44a-maus-historia-em-quadrinhos-que-ganhou-um-premio-pulitzer#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-44a-maus-historia-em-quadrinhos-que-ganhou-um-premio-pulitzer/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[hq]]></category>
+		<category><![CDATA[maus]]></category>
+		<category><![CDATA[segunda guerra]]></category>
+		<description>No lado A do podcast desta semana Guilherme Moreira, Guilherme Prado e Tiago Braccialli conversam sobre o romance ilustrado Maus, ganhador de um prêmio especial Pulitzer em 1992.
+
+Falamos sobre a obra, o autor Art Spiegelman, o holocausto e as peculiaridades na forma do autor contar esse terrível pedaço da história da humanidade.</description>
+		<content:encoded><![CDATA[<p>No lado A do podcast desta semana Guilherme Moreira, Guilherme Prado e Tiago Braccialli conversam sobre o romance ilustrado Maus, ganhador de um prêmio especial Pulitzer em 1992.</p>
+<p>Falamos sobre a obra, o autor Art Spiegelman, o holocausto e as peculiaridades na forma do autor contar esse terrível pedaço da história da humanidade.</p>
+<h3>Maus</h3>
+<p><img loading="lazy" class="alignnone size-full wp-image-583" src="https://indiecast.com.br/wp-content/uploads/2017/03/Art_Spiegelman_-_Maus_1972_page_1_panel_3.png" alt="" width="532" height="516" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/Art_Spiegelman_-_Maus_1972_page_1_panel_3.png 532w, https://indiecast.com.br/wp-content/uploads/2017/03/Art_Spiegelman_-_Maus_1972_page_1_panel_3-300x291.png 300w" sizes="(max-width: 532px) 100vw, 532px" /></p>
+<p>Romance gráfico produzido pelo sueco Art Spiegelman. Narra a luta de seu pai, Vladek Spiegelman um judeu polonês, para sobreviver ao Holocausto. As primeiras páginas foram publicas em 1980 mas o trabalho só foi concluido em 1991. A história fala do relacionamento complicado do autor com seu pai e de como os efeitos da guerra repercutiram através das gerações de sua família.</p>
+<p>Em 1992 Spiegelman foi agraciado com um &#8220;Prêmio Especial Pulitzer&#8221;. Essa categoria foi proposta pois o comitê de premiação não se decidiu se categorizava Maus como uma obra de ficção ou biográfica.</p>
+<p>Spiegelman retrata diferentes grupos étnicos através de várias espécies de animais: Os judeus são os ratos (em alemão: maus), os alemães, gatos, os franceses, sapos, os poloneses, porcos, os americanos, cachorros, os suecos, renas, os ciganos, traças, os ingleses, peixes. O uso de antropomorfismo, uma técnica familiar em desenhos animados e em tiras de quadrinhos, foi uma tirada irônica em relação às imagens propagandistas do nazismo, que mostravam os judeus como ratos e os poloneses como porcos. A publicação na Polônia teve de ser adiada devido a este elemento artístico.</p>
+<h3>Art Spiegelman</h3>
+<p><img loading="lazy" class="size-large wp-image-582" src="https://indiecast.com.br/wp-content/uploads/2017/03/art-1024x512.jpg" alt="" width="800" height="400" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/art-1024x512.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/art-300x150.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/art-768x384.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/art.jpg 2000w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Ilustrador, cartunista e autor de histórias em quadrinhos. Estadunidense nascido na Suécia. Atuou durante a década de 1990 na produção de charges, ilustrações e capas para revista novaiorquina The New Yorker. Duas de suas obras mais conhecidas são a semi-biográfica Maus e a coletânea de tiras em quadrinhos In the Shadows of No Towers.</p>
+<p>&nbsp;</p>
+<h3>Deixe seu recado</h3>
+<p>Leu Maus? Ou outra histpria do Art Spiegelman? Não se esqueça de deixar um like/retweet e sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-044-A-Maus.mp3" length="19125751" type="audio/mpeg" />
+		<itunes:subtitle>No lado A do podcast desta semana Guilherme Moreira, Guilherme Prado e Tiago Braccialli conversam sobre o romance ilustrado Maus, ganhador de um prêmio especial Pulitzer em 1992. - Falamos sobre a obra, o autor Art Spiegelman,</itunes:subtitle>
+		<itunes:summary>No lado A do podcast desta semana Guilherme Moreira, Guilherme Prado e Tiago Braccialli conversam sobre o romance ilustrado Maus, ganhador de um prêmio especial Pulitzer em 1992.&lt;br /&gt;
+&lt;br /&gt;
+Falamos sobre a obra, o autor Art Spiegelman, o holocausto e as peculiaridades na forma do autor contar esse terrível pedaço da história da humanidade.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:49</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/03/coverA-3.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 43B &#8211; Door Kickers</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-43b-door-kickers</link>
+		<pubDate>Tue, 14 Mar 2017 01:30:00 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=571</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-43b-door-kickers#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-43b-door-kickers/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Commandos]]></category>
+		<category><![CDATA[Estratégia]]></category>
+		<category><![CDATA[Police Quest]]></category>
+		<category><![CDATA[Simulação]]></category>
+		<category><![CDATA[Swat]]></category>
+		<description>Tiago Braccialli, Guilherme Moreira e Guilherme Prado vestem o equipamento tático para falar de Door Kickers.
+
+O jogo de simulação de operações táticas traz lembranças ao trio de um estilo de jogo que está cada vez mais raro, fazendo com que lembrem de jogos clássicos como Commandos, Police Quest Swat e Company of Heroes.</description>
+		<content:encoded><![CDATA[<p>Tiago Braccialli, Guilherme Moreira e Guilherme Prado vestem o equipamento tático para falar de Door Kickers.</p>
+<p>O jogo de simulação de operações táticas traz lembranças ao trio de um estilo de jogo que está cada vez mais raro, fazendo com que lembrem de jogos clássicos como Commandos, Police Quest Swat e Company of Heroes.</p>
+<p>E lembrando que está semana, mais forte do que nunca, dividimos o programa em Lado A e Lado B. <a href="https://indiecast.com.br/indiecast/indiecast-43a-logan-wolverine-e-como-mata-lo-ou-nao">Não ouviu o lado A, sobre Logan? Está esperando o que</a>?</p>
+<h3><a href="http://inthekillhouse.com/doorkickers/">Door Kickers</a></h3>
+<p>Jogo de estratégia em tempo real que coloca o jogador no comando de um time da Swat, liderando durante missões táticas.<br />
+Analisar a situação, planejar rotas de ataque e fuga, equipamento e coordenar múltiplos membros do esquadrão a realizarem o resgate de reféns antes que os vilões detonem tudo.</p>
+<p>Soa assustador, como um verdadeiro combate em ambient fechado, e é. A maioria dos níveis pode ser completada em minutos, mas terminar com perfeição demanda habilidades difíceis de ter maestria.</p>
+<p><a href="https://indiecast.com.br/wp-content/uploads/2017/03/9.jpg"><img loading="lazy" class="alignnone wp-image-574 size-medium" src="https://indiecast.com.br/wp-content/uploads/2017/03/9-300x169.jpg" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/9-300x169.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/9-768x432.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/9-1024x576.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/9.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7.jpg"><img loading="lazy" class="alignnone wp-image-575 size-medium" src="https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7-300x168.jpg" alt="" width="300" height="168" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7-300x168.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7-768x429.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7-1024x572.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7-800x445.jpg 800w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_2_5_18_23_7.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://indiecast.com.br/wp-content/uploads/2017/03/2014_4_17_11_8_35.jpg"><img loading="lazy" class="alignnone wp-image-576 size-medium" src="https://indiecast.com.br/wp-content/uploads/2017/03/2014_4_17_11_8_35-300x169.jpg" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/2014_4_17_11_8_35-300x169.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_4_17_11_8_35-768x432.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_4_17_11_8_35-1024x576.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/2014_4_17_11_8_35.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h4>Police Quest: Swat 2</h4>
+<p><a href="https://indiecast.com.br/wp-content/uploads/2017/03/swat2.jpg"><img loading="lazy" class="alignnone wp-image-573 size-medium" src="https://indiecast.com.br/wp-content/uploads/2017/03/swat2-300x163.jpg" alt="" width="300" height="163" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/swat2-300x163.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/swat2-768x418.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/swat2-1024x558.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/swat2.jpg 1360w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h3>Deixe seu recado</h3>
+<p>Jogou Door Kickers ou algum dos jogos que ele bebeu da fonte, como o antigo Police Quest Swat? Continua gostando do novo formato do programa, alguma ?</p>
+<p>Não se esqueça de dar um like/retweet em nossas redes sociais, contamos com vocês!</p>
+<p>Deixe sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima segunda.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-043-B-Door-Kickers.mp3" length="19631756" type="audio/mpeg" />
+		<itunes:subtitle>Tiago Braccialli, Guilherme Moreira e Guilherme Prado vestem o equipamento tático para falar de Door Kickers. - O jogo de simulação de operações táticas traz lembranças ao trio de um estilo de jogo que está cada vez mais raro,</itunes:subtitle>
+		<itunes:summary>Tiago Braccialli, Guilherme Moreira e Guilherme Prado vestem o equipamento tático para falar de Door Kickers.&lt;br /&gt;
+&lt;br /&gt;
+O jogo de simulação de operações táticas traz lembranças ao trio de um estilo de jogo que está cada vez mais raro, fazendo com que lembrem de jogos clássicos como Commandos, Police Quest Swat e Company of Heroes.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:26</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 43A &#8211; Logan, Wolverine e como matá-lo ou não</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-43a-logan-wolverine-e-como-mata-lo-ou-nao</link>
+		<pubDate>Mon, 13 Mar 2017 02:18:26 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=561</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-43a-logan-wolverine-e-como-mata-lo-ou-nao#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-43a-logan-wolverine-e-como-mata-lo-ou-nao/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Jean]]></category>
+		<category><![CDATA[Wolverine]]></category>
+		<category><![CDATA[Xavier]]></category>
+		<description>No lado A do podcast desta semana Tiago Braccialli, Guilherme Moreira e Guilherme Prado discutem o filme Logan, o Wolverine dos quadrinhos e a imortalidade do herói.
+
+O programa abre com um bom pedaço sem spoilers, discutindo todo o cenário encontrado no novo e último filme da saga X-Men com os atores Hugh Jackman (Logan/Wolverine) e Patrick Stewart (Professor Xavier).
+
+No desenrolar da discussão o trio comenta possíveis formas de acabar com a imortalidade do herói (ou seria anti-herói?).
+Logan
+Filme americano baseado no personagem da Marvel Comics, Wolverine. Décimo filme da série X-Men, se passa no ano de 2029 e é inspirado na série de quadrinhos Velho Logan por Mark Millar. Dirigido por James Mangold, o filme é estrelado por Hugh Jackman, Dafne Keen, Patrick Stewart, Richard E. Grant, Boyd Holbrook, e Stephen Merchant. O filme marca a ultima aparição de Jackman como Wolverine, e de Patrick Stewart como Professor Xavier.
+
+
+
+
+
+Protocolos Xavier
+Série de dossiês com análises de como derrotar os X-Men mais poderosos. Somente podem ser acessados com a presença de três X-Men específicos e apenas em caso do X-Men a ser derrotado tenha virado uma ameaça ao projeto dos X-Men de Xavier.
+
+ 
+Deixe seu recado
+Assistiu Logan? Pegaria um Uber em que o motorista fosse o Logan? Tem uma teoria de como matar o Wolverine? Não se esqueça de deixar um like/retweet e sua opinião aqui ou em:
+
+ 	Twitter – @indiecastcombr
+ 	Facebook – facebook.com/indiecastcombr
+ 	Canal no youtube
+
+Até a próxima semana.</description>
+		<content:encoded><![CDATA[<p>No lado A do podcast desta semana Tiago Braccialli, Guilherme Moreira e Guilherme Prado discutem o filme Logan, o Wolverine dos quadrinhos e a imortalidade do herói.</p>
+<p>O programa abre com um bom pedaço sem spoilers, discutindo todo o cenário encontrado no novo e último filme da saga X-Men com os atores Hugh Jackman (Logan/Wolverine) e Patrick Stewart (Professor Xavier).</p>
+<p>No desenrolar da discussão o trio comenta possíveis formas de acabar com a imortalidade do herói (ou seria anti-herói?).</p>
+<h3>Logan</h3>
+<p>Filme americano baseado no personagem da Marvel Comics, Wolverine. Décimo filme da série X-Men, se passa no ano de 2029 e é inspirado na série de quadrinhos Velho Logan por Mark Millar. Dirigido por James Mangold, o filme é estrelado por Hugh Jackman, Dafne Keen, Patrick Stewart, Richard E. Grant, Boyd Holbrook, e Stephen Merchant. O filme marca a ultima aparição de Jackman como Wolverine, e de Patrick Stewart como Professor Xavier.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-562" src="https://indiecast.com.br/wp-content/uploads/2017/03/logan-one-sheet-new-203x300.jpg" alt="" width="203" height="300" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/logan-one-sheet-new-203x300.jpg 203w, https://indiecast.com.br/wp-content/uploads/2017/03/logan-one-sheet-new-768x1137.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/logan-one-sheet-new-692x1024.jpg 692w, https://indiecast.com.br/wp-content/uploads/2017/03/logan-one-sheet-new.jpg 1000w" sizes="(max-width: 203px) 100vw, 203px" /></p>
+
+<h3></h3>
+<h3><a href="https://en.wikipedia.org/wiki/Professor_X#Xavier_Protocols">Protocolos Xavier</a></h3>
+<p>Série de dossiês com análises de como derrotar os X-Men mais poderosos. Somente podem ser acessados com a presença de três X-Men específicos e apenas em caso do X-Men a ser derrotado tenha virado uma ameaça ao projeto dos X-Men de Xavier.</p>
+<p>&nbsp;</p>
+<h3>Deixe seu recado</h3>
+<p>Assistiu Logan? Pegaria um Uber em que o motorista fosse o Logan? Tem uma teoria de como matar o Wolverine? Não se esqueça de deixar um like/retweet e sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-043-A-Logan.mp3" length="20465798" type="audio/mpeg" />
+		<itunes:subtitle>No lado A do podcast desta semana Tiago Braccialli, Guilherme Moreira e Guilherme Prado discutem o filme Logan, o Wolverine dos quadrinhos e a imortalidade do herói. - O programa abre com um bom pedaço sem spoilers,</itunes:subtitle>
+		<itunes:summary>No lado A do podcast desta semana Tiago Braccialli, Guilherme Moreira e Guilherme Prado discutem o filme Logan, o Wolverine dos quadrinhos e a imortalidade do herói.&lt;br /&gt;
+&lt;br /&gt;
+O programa abre com um bom pedaço sem spoilers, discutindo todo o cenário encontrado no novo e último filme da saga X-Men com os atores Hugh Jackman (Logan/Wolverine) e Patrick Stewart (Professor Xavier).&lt;br /&gt;
+&lt;br /&gt;
+No desenrolar da discussão o trio comenta possíveis formas de acabar com a imortalidade do herói (ou seria anti-herói?).&lt;br /&gt;
+Logan&lt;br /&gt;
+Filme americano baseado no personagem da Marvel Comics, Wolverine. Décimo filme da série X-Men, se passa no ano de 2029 e é inspirado na série de quadrinhos Velho Logan por Mark Millar. Dirigido por James Mangold, o filme é estrelado por Hugh Jackman, Dafne Keen, Patrick Stewart, Richard E. Grant, Boyd Holbrook, e Stephen Merchant. O filme marca a ultima aparição de Jackman como Wolverine, e de Patrick Stewart como Professor Xavier.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Protocolos Xavier&lt;br /&gt;
+Série de dossiês com análises de como derrotar os X-Men mais poderosos. Somente podem ser acessados com a presença de três X-Men específicos e apenas em caso do X-Men a ser derrotado tenha virado uma ameaça ao projeto dos X-Men de Xavier.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+Deixe seu recado&lt;br /&gt;
+Assistiu Logan? Pegaria um Uber em que o motorista fosse o Logan? Tem uma teoria de como matar o Wolverine? Não se esqueça de deixar um like/retweet e sua opinião aqui ou em:&lt;br /&gt;
+&lt;br /&gt;
+ 	Twitter – @indiecastcombr&lt;br /&gt;
+ 	Facebook – facebook.com/indiecastcombr&lt;br /&gt;
+ 	Canal no youtube&lt;br /&gt;
+&lt;br /&gt;
+Até a próxima semana.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:40</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 42B &#8211; Beholder</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-42b-beholder</link>
+		<pubDate>Tue, 07 Mar 2017 01:44:14 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=551</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-42b-beholder#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-42b-beholder/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Distopia]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Simulação]]></category>
+		<description>No Lado B do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre o jogo distópico Beholder.
+
+Esta semana o Indiecast estreia um novo formato dos programas! Separamos a abertura e o game em dois &quot;episódios&quot;, o A e o B.
+
+No &quot;lado A&quot; faremos o que sempre fizemos nas aberturas, trazendo um assunto do mundo não game e no lado B um ou mais jogos indie!
+
+Beholder
+
+Beholder is um jogo inspirado pelos trabalhos distópicos de George Orwell, Aldous Huxley e Rau Bradbury.
+
+O personagem principal, Carl, é um senhorio(administrador de um prédio de apartamentos) designado pelo estado totalitário. O Estado demanda que Carl espie seus inquilinos e denuncie qualquer atividade subversiva. 
+
+O jogo oferece ao jogador a possibilidade de seguir as ordens do Estado ou se rebelar e ajudar as pessoas oprimidas pelo regime atual. Os NPC tem sua própria personalidade, problemas e necessidades. Cada decisão do jogador afeta o desenrolar da história e afeta as múltiplas possibilidades do final do jogo.
+
+Em Beholder, você viverá num futuro sombrio onde a privacidade está morta e um estado totalitário é dono da sua vida. Servirá o Estado como gerente de um complexo de apartamento. Espionará o seus inquilinos. Cagoetará subversivos. Por fim, tentará cumprir as leis ou preferirá fazer o que te interessa? E se a sua vida depender de alguém que você terá que cagoetar?</description>
+		<content:encoded><![CDATA[<p>No Lado B do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre o jogo distópico Beholder.</p>
+<p>Esta semana o Indiecast estreia um novo formato dos programas! Separamos a abertura e o game em dois &#8220;episódios&#8221;, o A e o B.</p>
+<p>No &#8220;lado A&#8221; faremos o que sempre fizemos nas aberturas, trazendo um assunto do mundo não game e no lado B um ou mais jogos indie!</p>
+<p><a href="https://indiecast.com.br/indiecast/indiecast-42a-distopia-futuro-e-1984">Não ouviu o lado A, sobre Distopia e 1984? Ouça aqui!</a></p>
+<h3><a href="https://beholder-game.com/">Beholder</a></h3>
+<p>Beholder is um jogo inspirado pelos trabalhos distópicos de George Orwell, Aldous Huxley e Rau Bradbury.</p>
+<p>O personagem principal, Carl, é um senhorio(administrador de um prédio de apartamentos) designado pelo estado totalitário. O Estado demanda que Carl espie seus inquilinos e denuncie qualquer atividade subversiva.</p>
+<p>O jogo oferece ao jogador a possibilidade de seguir as ordens do Estado ou se rebelar e ajudar as pessoas oprimidas pelo regime atual. Os NPC tem sua própria personalidade, problemas e necessidades. Cada decisão do jogador afeta o desenrolar da história e afeta as múltiplas possibilidades do final do jogo.</p>
+<p>Em Beholder, você viverá num futuro sombrio onde a privacidade está morta e um estado totalitário é dono da sua vida. Servirá o Estado como gerente de um complexo de apartamento. Espionará o seus inquilinos. Cagoetará subversivos. Por fim, tentará cumprir as leis ou preferirá fazer o que te interessa? E se a sua vida depender de alguém que você terá que cagoetar?</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-556" src="https://indiecast.com.br/wp-content/uploads/2017/03/Beholder_Banner-300x157.jpg" alt="" width="300" height="157" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/Beholder_Banner-300x157.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/Beholder_Banner-768x401.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/Beholder_Banner-1024x535.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/Beholder_Banner-390x205.jpg 390w, https://indiecast.com.br/wp-content/uploads/2017/03/Beholder_Banner.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /> <img loading="lazy" class="alignnone size-medium wp-image-558" src="https://indiecast.com.br/wp-content/uploads/2017/03/family-300x169.jpg" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/family-300x169.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/family-768x432.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/family-1024x576.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/family.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" />  <img loading="lazy" class="alignnone size-medium wp-image-559" src="https://indiecast.com.br/wp-content/uploads/2017/03/house_inside-300x169.jpg" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/03/house_inside-300x169.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/03/house_inside-768x432.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/03/house_inside-1024x576.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/03/house_inside.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<h3>Deixe seu recado</h3>
+<p>Jogou Beholder? O que achou do novo formato do programa? Não se esqueça de deixar um like/retweet e sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-042-B-Beholder.mp3" length="22642715" type="audio/mpeg" />
+		<itunes:subtitle>No Lado B do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre o jogo distópico Beholder. - Esta semana o Indiecast estreia um novo formato dos programas! Separamos a abertura e o game em dois &quot;episódios&quot;,</itunes:subtitle>
+		<itunes:summary>No Lado B do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre o jogo distópico Beholder.&lt;br /&gt;
+&lt;br /&gt;
+Esta semana o Indiecast estreia um novo formato dos programas! Separamos a abertura e o game em dois &quot;episódios&quot;, o A e o B.&lt;br /&gt;
+&lt;br /&gt;
+No &quot;lado A&quot; faremos o que sempre fizemos nas aberturas, trazendo um assunto do mundo não game e no lado B um ou mais jogos indie!&lt;br /&gt;
+&lt;br /&gt;
+Beholder&lt;br /&gt;
+&lt;br /&gt;
+Beholder is um jogo inspirado pelos trabalhos distópicos de George Orwell, Aldous Huxley e Rau Bradbury.&lt;br /&gt;
+&lt;br /&gt;
+O personagem principal, Carl, é um senhorio(administrador de um prédio de apartamentos) designado pelo estado totalitário. O Estado demanda que Carl espie seus inquilinos e denuncie qualquer atividade subversiva. &lt;br /&gt;
+&lt;br /&gt;
+O jogo oferece ao jogador a possibilidade de seguir as ordens do Estado ou se rebelar e ajudar as pessoas oprimidas pelo regime atual. Os NPC tem sua própria personalidade, problemas e necessidades. Cada decisão do jogador afeta o desenrolar da história e afeta as múltiplas possibilidades do final do jogo.&lt;br /&gt;
+&lt;br /&gt;
+Em Beholder, você viverá num futuro sombrio onde a privacidade está morta e um estado totalitário é dono da sua vida. Servirá o Estado como gerente de um complexo de apartamento. Espionará o seus inquilinos. Cagoetará subversivos. Por fim, tentará cumprir as leis ou preferirá fazer o que te interessa? E se a sua vida depender de alguém que você terá que cagoetar?</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:07</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/03/cover-1-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 42A &#8211; Distopia, futuro e 1984</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-42a-distopia-futuro-e-1984</link>
+		<pubDate>Tue, 07 Mar 2017 01:43:57 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=544</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-42a-distopia-futuro-e-1984#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-42a-distopia-futuro-e-1984/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Distopia]]></category>
+		<category><![CDATA[Grande Irmão]]></category>
+		<description>No Lado A do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli discute distopias e o livro 1984 de George Orwell.</description>
+		<content:encoded><![CDATA[<p>No Lado A do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli discute distopias e o livro 1984 de George Orwell.</p>
+<p>Esta semana o Indiecast estreia um novo formato dos programas! Separamos a abertura e o game em dois &#8220;episódios&#8221;, o A e o B.</p>
+<p>No &#8220;lado A&#8221; faremos o que sempre fizemos nas aberturas, trazendo um assunto do mundo não game e no lado B um ou mais jogos indie!</p>
+<p><a href="https://indiecast.com.br/indiecast/indiecast-42b-beholder">Quer ouvir sobre o jogo da semana, Beholder? Ouça aqui!</a></p>
+<h3>1984</h3>
+<p>Romance distópico publicado em 1949 pelo autor George Orwell. Conta a história de Winston, um funcionário do Ministério da Verdade, que passa a compreender as atrocidades cometidas pelo Grande Irmão e torna-se um rebelde.</p>
+<p>No livro também são narradas várias técnicas utilizadas pela Oceania (superestado no qual Winston reside) para controlar a população e manter os interesses da classe dominante, como a atuação dos Ministérios da Verdade, Paz, Fartura e Amor, além da utilização do duplipensar, novafala e teletela no controle rígido da sociedade.</p>
+<h3><a href="https://pt.wikipedia.org/wiki/George_Orwell">George Orwell</a></h3>
+<p>Pseudônimo de Eric Arthur Blair, escritor que ficou famoso por 1984 e <a href="https://pt.wikipedia.org/wiki/A_revolu%C3%A7%C3%A3o_dos_bichos">A Revolução dos Bichos</a>. Influenciou bastante a cultura contemporânea, tanto popular, quanto política. Vários neologismos criados por ele, assim como o termo orwelliano &#8211; usado para definir qualquer prática social autoritária ou totalitária &#8211; são bastante difundidos.</p>
+<p>Morreu em 1950 na cidade de Londres, aos 46 anos de idade, vítima de tuberculose.</p>
+<h3>Deixe seu recado</h3>
+<p>Ja leu 1984? O que pensa de Big Brother / Grande Irmão? É pessimista e acredita que estamos indo por esse caminho? Deixe sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-042-A-1984.mp3" length="25734355" type="audio/mpeg" />
+		<itunes:subtitle>No Lado A do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli discute distopias e o livro 1984 de George Orwell.</itunes:subtitle>
+		<itunes:summary>No Lado A do Indiecast o trio Guilherme Prado, Guilherme Moreira e Tiago Braccialli discute distopias e o livro 1984 de George Orwell.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>35:40</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/03/cover-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 41 &#8211; Star Wars e Hotline Miami</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-41-star-wars-e-hotline-miami</link>
+		<pubDate>Tue, 28 Feb 2017 13:37:04 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=535</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-41-star-wars-e-hotline-miami#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-41-star-wars-e-hotline-miami/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Star Wars]]></category>
+		<description>Na semana do carnaval um podcast com um pouco de carnaval, Star Wars e o ultraviolento Hotline Miami.
+
+No primeiro bloco do programa Guilherme Moreira, Guilherme Prado, Tiago Braccialli e o convidado Tiago Lelis  começam falando de Carnaval e lembrando da apresentação da Unidos da Tijuca em 2011 com alas de Star Wars. Depois discutem o plano de saúde na Estrela da Morte, a verdadeira estrela da morte Mimas, o universo canônico e expandido de Star Wars. Por fim a discussão de quem são os últimos Jedi, será Rey a vilã e Kylo Ren o herói? Quem são os pais da Rey?
+
+E no motivo da existência deste cast: o jogo Indie - Hotline Miami. Um jogo shooter twin-stick ultraviolento.</description>
+		<content:encoded><![CDATA[<p>Na semana do carnaval um podcast com um pouco de carnaval, Star Wars e o ultraviolento Hotline Miami.</p>
+<p>No primeiro bloco do programa Guilherme Moreira, Guilherme Prado, Tiago Braccialli e o convidado Tiago Lelis  começam falando de Carnaval e lembrando da apresentação da Unidos da Tijuca em 2011 com alas de Star Wars. Depois discutem o plano de saúde na Estrela da Morte, a verdadeira estrela da morte Mimas, o universo canônico e expandido de Star Wars. Por fim a discussão de quem são os últimos Jedi, será Rey a vilã e Kylo Ren o herói? Quem são os pais da Rey?</p>
+<p>E no motivo da existência deste cast: o jogo Indie &#8211; Hotline Miami. Um jogo shooter twin-stick ultraviolento.</p>
+<h3><a href="https://pt.wikipedia.org/wiki/Star_Wars:_Os_%C3%9Altimos_Jedi">Star Wars &#8211; The Last Jedi &#8211; Os últimos Jedi</a></h3>
+<p>Oitavo filme da saga Star Wars e segundo após a aquisição da franquia pela Disney. Tem estréia prevista para 15 de dezembro de 2017.</p>
+<h3><a href="https://pt.wikipedia.org/wiki/Mimas_(sat%C3%A9lite)">Mimas</a></h3>
+<p>A estrela da morte &#8220;real&#8221;</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-536" src="https://indiecast.com.br/wp-content/uploads/2017/02/250px-Mimas_Cassini.jpg" alt="" width="250" height="250" srcset="https://indiecast.com.br/wp-content/uploads/2017/02/250px-Mimas_Cassini.jpg 250w, https://indiecast.com.br/wp-content/uploads/2017/02/250px-Mimas_Cassini-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></p>
+<h3><a href="http://www.hotlinemiami.com/">Hotline Miami</a></h3>
+<p><img loading="lazy" class="size-medium wp-image-538" src="https://indiecast.com.br/wp-content/uploads/2017/02/hotline-300x169.jpg" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/02/hotline-300x169.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/02/hotline-768x432.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/02/hotline-1024x576.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/02/hotline.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Hotline Miami é um jogo eletrônico 2D de ação com visão de cima lançado em 2012 pela Dennaton Games, composta por Jonatan Söderström e Dennis Wedin.</p>
+<p>Situado em Miami no final dos anos 80, em que o protagonista recebe telefonemas solicitando que cometa massacres contra a máfia russa. O game mistura uma perspectiva de cima com situações stealth, violência extrema, narrativa surreal e não confiável, juntamente com uma trilha sonora e visuais influenciadas pela cultura dos anos 1980.</p>
+<p>Recebeu críticas positivas. Possui uma continuação Hotline Miami 2: Wrong Number, que é ao mesmo tempo antecessora e sequência do primeiro game.</p>
+
+<h3>Deixe seu recado</h3>
+<p>Qual sua teoria de Star Wars? Gosta de carnaval? Jogou Hotline Miami? Deixe seu comentário aqui no post ou em nossas redes sociais:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-041-Star-Wars-e-Hotline-Miami.mp3" length="35174627" type="audio/mpeg" />
+		<itunes:subtitle>Na semana do carnaval um podcast com um pouco de carnaval, Star Wars e o ultraviolento Hotline Miami. - No primeiro bloco do programa Guilherme Moreira, Guilherme Prado, Tiago Braccialli e o convidado Tiago Lelis  começam falando de Carnaval e lembran...</itunes:subtitle>
+		<itunes:summary>Na semana do carnaval um podcast com um pouco de carnaval, Star Wars e o ultraviolento Hotline Miami.&lt;br /&gt;
+&lt;br /&gt;
+No primeiro bloco do programa Guilherme Moreira, Guilherme Prado, Tiago Braccialli e o convidado Tiago Lelis  começam falando de Carnaval e lembrando da apresentação da Unidos da Tijuca em 2011 com alas de Star Wars. Depois discutem o plano de saúde na Estrela da Morte, a verdadeira estrela da morte Mimas, o universo canônico e expandido de Star Wars. Por fim a discussão de quem são os últimos Jedi, será Rey a vilã e Kylo Ren o herói? Quem são os pais da Rey?&lt;br /&gt;
+&lt;br /&gt;
+E no motivo da existência deste cast: o jogo Indie - Hotline Miami. Um jogo shooter twin-stick ultraviolento.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:12:50</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/02/cover-1-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 40 &#8211; Ready Player One e Guns, Gore and Cannoli</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-40-ready-player-one-e-guns-gore-and-cannoli</link>
+		<pubDate>Tue, 21 Feb 2017 09:38:46 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=529</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-40-ready-player-one-e-guns-gore-and-cannoli#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-40-ready-player-one-e-guns-gore-and-cannoli/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<description>Esta semana um podcast recheado de realidade virtual, armas, máfia e cannoli!
+
+No primeiro bloco do programa Tiago Braccialli, Guilherme Moreira e Guilherme Prado comentam o livro de ficção científica, realidade virtual e ode aos anos 80: Ready Player One - Jogador número um. O livro de Ernest Cline virará filme nas mãos de ninguém menos que Steven Spielberg.
+
+E no bloco que interessa: o jogo indie shooter mais italiano dos últimos carnavais: Guns, gore and cannoli.</description>
+		<content:encoded><![CDATA[<p>Esta semana um podcast recheado de realidade virtual, armas, máfia e cannoli!</p>
+<p>No primeiro bloco do programa Tiago Braccialli, Guilherme Moreira e Guilherme Prado comentam o livro de ficção científica, realidade virtual e ode aos anos 80: Ready Player One &#8211; Jogador número um. O livro de Ernest Cline virará filme nas mãos de ninguém menos que Steven Spielberg.</p>
+<p>E no bloco que interessa: o jogo indie shooter mais italiano dos últimos carnavais: Guns, gore and cannoli.</p>
+<h3>Ernest Cline e Ready Player One</h3>
+<p>Escritor americano, começou escrevendo fan-fiction nos anos 90. Fez grande sucesso com seus dois livros, que serão transformados em filme:</p>
+<ul>
+<li><a href="https://pt.wikipedia.org/wiki/Ready_Player_One">Jogador número um</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Armada_(novel)">Armada</a></li>
+</ul>
+<p><a href="http://www.ernestcline.com/">O site do escritor vale a visita!</a></p>
+<p>&nbsp;</p>
+<h3><a href="http://gunsgorecannoli.com/launch.html">Guns, gore and cannoli</a></h3>
+<p>Imagine que O Poderoso Chefão estava jogando Metal Slug enquanto acontecia a Madrugada dos Mortos Vivos. Essa mistura resultou em Guns, Gore and Cannoli um jogo comico, rápido, cheio de ação, com gráficos desenhados a mão e que se passa nos  anos 20.</p>
+<p>O protagonista é Vinnie Cannoli,um gangster que tem de ir à Thugtown encontrar um membro da máfia que está desaparecido e conta com a persuasão de sua Tommy gun e de uma escopeta de cano duplo. Mas como nada vem fácil, uma horda de mortos vivos complica a missão do &#8220;herói&#8221;. Capice?</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-530" src="https://indiecast.com.br/wp-content/uploads/2017/02/Stripclub02-300x169.png" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/02/Stripclub02-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/02/Stripclub02-768x432.png 768w, https://indiecast.com.br/wp-content/uploads/2017/02/Stripclub02-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/02/Stripclub02.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /> <img loading="lazy" class="alignnone size-medium wp-image-531" src="https://indiecast.com.br/wp-content/uploads/2017/02/alleystreets03-300x169.png" alt="" width="300" height="169" srcset="https://indiecast.com.br/wp-content/uploads/2017/02/alleystreets03-300x169.png 300w, https://indiecast.com.br/wp-content/uploads/2017/02/alleystreets03-768x432.png 768w, https://indiecast.com.br/wp-content/uploads/2017/02/alleystreets03-1024x576.png 1024w, https://indiecast.com.br/wp-content/uploads/2017/02/alleystreets03.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte gosta de cannoli? E canelone? Já leu Ready Player One? Pretende passar mais tempo no OASIS ou no mundo real? Deixe seu comentário aqui no post ou em nossas redes sociais:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-040-RPO-Guns-Gore_Canoli.mp3" length="31374214" type="audio/mpeg" />
+		<itunes:subtitle>Esta semana um podcast recheado de realidade virtual, armas, máfia e cannoli! - No primeiro bloco do programa Tiago Braccialli, Guilherme Moreira e Guilherme Prado comentam o livro de ficção científica, realidade virtual e ode aos anos 80: Ready Playe...</itunes:subtitle>
+		<itunes:summary>Esta semana um podcast recheado de realidade virtual, armas, máfia e cannoli!&lt;br /&gt;
+&lt;br /&gt;
+No primeiro bloco do programa Tiago Braccialli, Guilherme Moreira e Guilherme Prado comentam o livro de ficção científica, realidade virtual e ode aos anos 80: Ready Player One - Jogador número um. O livro de Ernest Cline virará filme nas mãos de ninguém menos que Steven Spielberg.&lt;br /&gt;
+&lt;br /&gt;
+E no bloco que interessa: o jogo indie shooter mais italiano dos últimos carnavais: Guns, gore and cannoli.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:36</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 39 &#8211; Gurps, FBI e Prison Architect</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-39-gurps-fbi-e-prison-architect</link>
+		<pubDate>Tue, 14 Feb 2017 02:05:10 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=519</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-39-gurps-fbi-e-prison-architect#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-39-gurps-fbi-e-prison-architect/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[cyberpunk]]></category>
+		<category><![CDATA[gurps]]></category>
+		<category><![CDATA[steve jackson]]></category>
+		<description>Esta semana falamos no podcast de Gurps, FBI, Hackerman e Prison Architect
+
+Na abertura o trio Guilherme Prado, Tiago Braccialli e Guilherme Moreira lembram dos livros de aventura/rpg, GURPS, GURPS Cyberpunk e de uma batida mal feita pelo FBI.
+
+E no bloco principal o excelente jogo, votado jogo do ano de 2015 por 11 de cada 10 carcereiros do Brasil: Prison Architect.
+Prison Architect
+O jogo é um simulador de construção e o gerenciamento em perspectiva top-down. Você assume o papel de construtor e administrador de uma prisão, sendo responsável por gerenciar vários aspectos de sua prisão, incluindo a construção de celas e instalações, planejamento e ligação de utilitários, a contratação e a atribuição de funcionários, incluindo um diretor, guardas, trabalhadores, e mais. O jogador precisa recrutar funcionários para desbloquear mais aspectos do jogo. O jogador também é responsável pelas finanças, e manter seus habitantes contentes. Foi inspirado por Theme Hospital, Dungeon Keeper e Dwarf Fortress.
+
+ 	Site oficial
+
+Steve Jackson
+Designer de jogos, famoso por ter criado o sistema de rpg Gurps e dos jogos Muchikin e Zombie Dice.
+Fotos de hackers famosos
+ 
+Deixe seu recado
+E você ouvinte gosta de jogos de gerenciamento? Já construiu alguma prisão? É superlotada ou faz com que os presídios da Noruega pareçam de terceiro mundo? Já hackeou com power glove de SNES? Deixe sua opinião aqui no discus ou em:
+
+ 	Twitter – @indiecastcombr
+ 	Facebook – facebook.com/indiecastcombr
+ 	Canal no youtube
+
+Até a próxima semana.</description>
+		<content:encoded><![CDATA[<p>Esta semana falamos no podcast de Gurps, FBI, Hackerman e Prison Architect</p>
+<p>Na abertura o trio Guilherme Prado, Tiago Braccialli e Guilherme Moreira lembram dos livros de aventura/rpg, GURPS, GURPS Cyberpunk e de uma batida mal feita pelo FBI.</p>
+<p>E no bloco principal o excelente jogo, votado jogo do ano de 2015 por 11 de cada 10 carcereiros do Brasil: Prison Architect.</p>
+<h3>Prison Architect</h3>
+<p>O jogo é um simulador de construção e o gerenciamento em perspectiva top-down. Você assume o papel de construtor e administrador de uma prisão, sendo responsável por gerenciar vários aspectos de sua prisão, incluindo a construção de celas e instalações, planejamento e ligação de utilitários, a contratação e a atribuição de funcionários, incluindo um diretor, guardas, trabalhadores, e mais. O jogador precisa recrutar funcionários para desbloquear mais aspectos do jogo. O jogador também é responsável pelas finanças, e manter seus habitantes contentes. Foi inspirado por Theme Hospital, Dungeon Keeper e Dwarf Fortress.</p>
+<ul>
+<li><a href="http://www.introversion.co.uk/prisonarchitect/">Site oficial</a></li>
+</ul>
+<h3>Steve Jackson</h3>
+<p>Designer de jogos, famoso por ter criado o sistema de rpg <a href="https://pt.wikipedia.org/wiki/GURPS">Gurps</a> e dos jogos <a href="https://pt.wikipedia.org/wiki/Munchkin_(jogo)">Muchikin</a> e <a href="https://en.wikipedia.org/wiki/Zombie_Dice">Zombie Dice</a>.</p>
+<h3>Fotos de hackers famosos</h3>
+<h3><img loading="lazy" class="alignnone size-medium wp-image-521" src="https://indiecast.com.br/wp-content/uploads/2017/02/hackerman-300x200.jpg" alt="" width="300" height="200" srcset="https://indiecast.com.br/wp-content/uploads/2017/02/hackerman-300x200.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/02/hackerman-768x512.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/02/hackerman.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /> <img loading="lazy" class="alignnone size-medium wp-image-522" src="https://indiecast.com.br/wp-content/uploads/2017/02/swordfish-300x199.jpg" alt="" width="300" height="199" srcset="https://indiecast.com.br/wp-content/uploads/2017/02/swordfish-300x199.jpg 300w, https://indiecast.com.br/wp-content/uploads/2017/02/swordfish-768x510.jpg 768w, https://indiecast.com.br/wp-content/uploads/2017/02/swordfish-1024x680.jpg 1024w, https://indiecast.com.br/wp-content/uploads/2017/02/swordfish.jpg 1240w" sizes="(max-width: 300px) 100vw, 300px" /></h3>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte gosta de jogos de gerenciamento? Já construiu alguma prisão? É superlotada ou faz com que os presídios da Noruega pareçam de terceiro mundo? Já hackeou com power glove de SNES? Deixe sua opinião aqui no discus ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-039-Gurps-FBI-e-Prison-Architect.mp3" length="27016261" type="audio/mpeg" />
+		<itunes:subtitle>Esta semana falamos no podcast de Gurps, FBI, Hackerman e Prison Architect - Na abertura o trio Guilherme Prado, Tiago Braccialli e Guilherme Moreira lembram dos livros de aventura/rpg, GURPS, GURPS Cyberpunk e de uma batida mal feita pelo FBI. - </itunes:subtitle>
+		<itunes:summary>Esta semana falamos no podcast de Gurps, FBI, Hackerman e Prison Architect&lt;br /&gt;
+&lt;br /&gt;
+Na abertura o trio Guilherme Prado, Tiago Braccialli e Guilherme Moreira lembram dos livros de aventura/rpg, GURPS, GURPS Cyberpunk e de uma batida mal feita pelo FBI.&lt;br /&gt;
+&lt;br /&gt;
+E no bloco principal o excelente jogo, votado jogo do ano de 2015 por 11 de cada 10 carcereiros do Brasil: Prison Architect.&lt;br /&gt;
+Prison Architect&lt;br /&gt;
+O jogo é um simulador de construção e o gerenciamento em perspectiva top-down. Você assume o papel de construtor e administrador de uma prisão, sendo responsável por gerenciar vários aspectos de sua prisão, incluindo a construção de celas e instalações, planejamento e ligação de utilitários, a contratação e a atribuição de funcionários, incluindo um diretor, guardas, trabalhadores, e mais. O jogador precisa recrutar funcionários para desbloquear mais aspectos do jogo. O jogador também é responsável pelas finanças, e manter seus habitantes contentes. Foi inspirado por Theme Hospital, Dungeon Keeper e Dwarf Fortress.&lt;br /&gt;
+&lt;br /&gt;
+ 	Site oficial&lt;br /&gt;
+&lt;br /&gt;
+Steve Jackson&lt;br /&gt;
+Designer de jogos, famoso por ter criado o sistema de rpg Gurps e dos jogos Muchikin e Zombie Dice.&lt;br /&gt;
+Fotos de hackers famosos&lt;br /&gt;
+ &lt;br /&gt;
+Deixe seu recado&lt;br /&gt;
+E você ouvinte gosta de jogos de gerenciamento? Já construiu alguma prisão? É superlotada ou faz com que os presídios da Noruega pareçam de terceiro mundo? Já hackeou com power glove de SNES? Deixe sua opinião aqui no discus ou em:&lt;br /&gt;
+&lt;br /&gt;
+ 	Twitter – @indiecastcombr&lt;br /&gt;
+ 	Facebook – facebook.com/indiecastcombr&lt;br /&gt;
+ 	Canal no youtube&lt;br /&gt;
+&lt;br /&gt;
+Até a próxima semana.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>52:42</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/02/cover-39-prison-architect-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 38 &#8211; Axiom Verge</title>
+		<link>https://indiecast.com.br/indiecast/indicast-38-axiom-verge</link>
+		<pubDate>Tue, 07 Feb 2017 10:03:39 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=511</guid>
+		<comments>https://indiecast.com.br/indiecast/indicast-38-axiom-verge#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indicast-38-axiom-verge/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Metroid]]></category>
+		<category><![CDATA[Metroidvania]]></category>
+		<description>Podcast sobre o jogo side scroller de ação onde você controla Trace, um cientista que, após ter sofrido uma lesão incapacitante, acorda em um mundo antigo e altamente tecnológico. O jogo, batente parecido com Super Metroid, foca em exploração, ação e conta com muitos itens e Power-ups.</description>
+		<content:encoded><![CDATA[<p>Na abertura do post falamos de cannolis, livros eletrônicos e jogos digitais.</p>
+<p>No bloco principal Guilherme Moreira, Tiago Braccialli e Guilherme Prado comentam o jogo estilo metroidvania Axiom Verge.</p>
+<h3>Axiom Verge</h3>
+<p>É um jogo side scroller de ação onde você controla Trace, um cientista que, após ter sofrido uma lesão incapacitante, acorda em um mundo antigo e altamente tecnológico. O jogo, batente parecido com Super Metroid, foca em exploração, ação e conta com muitos itens e Power-ups.</p>
+<ul>
+<li><a href="http://www.axiomverge.com/">Site oficial</a></li>
+</ul>
+<h3>H. R. Ginger</h3>
+<p>Foi um pintor surrealista suíço.</p>
+<p>Famoso por suas pinturas feitas com aerógrafo que fundiam humanos com máquinas. Fez parte da equipe vencedora do Oscar pelos efeitos especiais do filme Alien.</p>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte já comeu cannolis? Trocou sua coleção de livros ou jogos para a mídia digital? Terminou 100% o Axiom Verge? Gosta de cheddar? Qual efeito que você mas gostaria de shaders? Deixe sua opinião aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-038-Axiom-Verge.mp3" length="22632005" type="audio/mpeg" />
+		<itunes:subtitle>Podcast sobre o jogo side scroller de ação onde você controla Trace, um cientista que, após ter sofrido uma lesão incapacitante, acorda em um mundo antigo e altamente tecnológico. O jogo, batente parecido com Super Metroid, foca em exploração,</itunes:subtitle>
+		<itunes:summary>Podcast sobre o jogo side scroller de ação onde você controla Trace, um cientista que, após ter sofrido uma lesão incapacitante, acorda em um mundo antigo e altamente tecnológico. O jogo, batente parecido com Super Metroid, foca em exploração, ação e conta com muitos itens e Power-ups.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>52:06</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/02/cover-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 37 &#8211; Rick and Morty e Factorio</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-37-rick-and-morty-e-factorio</link>
+		<pubDate>Tue, 31 Jan 2017 02:15:21 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=505</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-37-rick-and-morty-e-factorio#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-37-rick-and-morty-e-factorio/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Archer]]></category>
+		<category><![CDATA[Bojack Horseman]]></category>
+		<category><![CDATA[Factorio]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Multiplayer]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Rick and Morty]]></category>
+		<description>Esta semana o podcast perturba a calma do universo e abre falando de um desenho animado que o que tem de bizarro tem de bom: Rick and Morty.
+
+No bloco principal Guilherme Prado, Tiago Braccialli e Guilherme Moreira comentam o jogo de ação, subrevivência e RTS - Factorio.</description>
+		<content:encoded><![CDATA[<p>Esta semana o podcast perturba a calma do universo e fala de Factorio e de um desenho animado que o que tem de bizarro tem de bom: Rick and Morty.</p>
+<p>No bloco principal Guilherme Prado, Tiago Braccialli e Guilherme Moreira comentam o jogo de ação, subrevivência e RTS &#8211; Factorio.</p>
+<p>Em Factorio você controla um viajante espacial que caiu em um planeta inóspito. É preciso explorar recursos naturais do planeta e construir fábricas que permitam que você evolua tecnologicamente e conclua o objetivo de lançar um foguete com um satélite.</p>
+<p>Se proteger também é importante, pois o planeta possui uma espécie bastante agressiva e territorial que é um risco para as fábricas e para o jogador.</p>
+<p><strong>Rick And Morty</strong></p>
+<ul>
+<li><a href="https://pt.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty na Wikipedia</a></li>
+<li><a href="http://www.adultswim.com/videos/rick-and-morty/">Site oficial com todos os episódio em inglês</a></li>
+</ul>
+<h3>Factorio</h3>
+<ul>
+<li><a href="https://www.factorio.com/">Site oficial</a></li>
+</ul>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte gostou de Rick and Mory? Conseguiu lançar um satélite em Factorio? Jogou fora várias bases? :</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-037-Rick-and-Morty-e-Factorio.mp3" length="27941053" type="audio/mpeg" />
+		<itunes:subtitle>Esta semana o podcast perturba a calma do universo e abre falando de um desenho animado que o que tem de bizarro tem de bom: Rick and Morty. - No bloco principal Guilherme Prado, Tiago Braccialli e Guilherme Moreira comentam o jogo de ação,</itunes:subtitle>
+		<itunes:summary>Esta semana o podcast perturba a calma do universo e abre falando de um desenho animado que o que tem de bizarro tem de bom: Rick and Morty.&lt;br /&gt;
+&lt;br /&gt;
+No bloco principal Guilherme Prado, Tiago Braccialli e Guilherme Moreira comentam o jogo de ação, subrevivência e RTS - Factorio.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>50:10</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/01/cover-6-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 36 &#8211; Aritana e a Pena da Harpia e a indústria brasileira de jogos</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-36-aritana-e-pena-da-harpia-e-industria-brasileira-de-jogos</link>
+		<pubDate>Tue, 24 Jan 2017 08:18:59 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=501</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-36-aritana-e-pena-da-harpia-e-industria-brasileira-de-jogos#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-36-aritana-e-pena-da-harpia-e-industria-brasileira-de-jogos/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Aritana]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>O podcast traz esta semana o convidado Rodrigo Modena, presidente executivo da Duaik e produtor da franquia de jogos brasileiros Aritana.
+
+Guilherme Moreira, Guilherme Prado e Tiago Braccialli começam o bate papo com o convidado lembrando da internet dos anos 90 e começo dos anos 2000, ICQ e usar a internet só de madrugada para pagar menos pulso.
+
+No bloco principal abrimos com o jogo indie brasileiro Aritana e a Pena da Harpia, a cultura indígena no brasil e no vídeo game. Depois falamos da regulamentação dos jogos no Brasil, o papel do Ministério da Justiça, o amadurecimento da industria no Brasil, Lei Rouanet, apoio governamental e as dificuldades dos desenvolvedores indie no Brasil.</description>
+		<content:encoded><![CDATA[<p>O podcast traz esta semana o convidado Rodrigo Modena, presidente executivo da <a href="http://www.duaik.com/">Duaik</a> e produtor da franquia de jogos brasileiros Aritana.</p>
+<p>Guilherme Moreira, Guilherme Prado e Tiago Braccialli começam o bate papo com o convidado lembrando da internet dos anos 90 e começo dos anos 2000, ICQ e usar a internet só de madrugada para pagar menos pulso.</p>
+<p>No bloco principal abrimos com o jogo indie brasileiro Aritana e a Pena da Harpia, a cultura indígena no brasil e no vídeo game. Depois falamos da regulamentação dos jogos no Brasil, o papel do Ministério da Justiça, o amadurecimento da industria no Brasil, Lei Rouanet, apoio governamental e as dificuldades dos desenvolvedores indie no Brasil.</p>
+<p>E, para finalizar, um pouco do mercado profissional de jogos no Brasil.</p>
+<h3>O jogo</h3>
+<ul>
+<li><a href="http://www.duaik.com/aritana">Aritana e a Pena da Harpia</a></li>
+</ul>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte já jogou Aritana? Tentou publicar um jogo? Sonha, assim como Moreira, Prado e Braccialli entrar na industria de jogos? Deixe sua opinião aqui, ou em nossas redes sociais:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-036-Aritana-industria-br.mp3" length="44003925" type="audio/mpeg" />
+		<itunes:subtitle>O podcast traz esta semana o convidado Rodrigo Modena, presidente executivo da Duaik e produtor da franquia de jogos brasileiros Aritana. - Guilherme Moreira, Guilherme Prado e Tiago Braccialli começam o bate papo com o convidado lembrando da internet...</itunes:subtitle>
+		<itunes:summary>O podcast traz esta semana o convidado Rodrigo Modena, presidente executivo da Duaik e produtor da franquia de jogos brasileiros Aritana.&lt;br /&gt;
+&lt;br /&gt;
+Guilherme Moreira, Guilherme Prado e Tiago Braccialli começam o bate papo com o convidado lembrando da internet dos anos 90 e começo dos anos 2000, ICQ e usar a internet só de madrugada para pagar menos pulso.&lt;br /&gt;
+&lt;br /&gt;
+No bloco principal abrimos com o jogo indie brasileiro Aritana e a Pena da Harpia, a cultura indígena no brasil e no vídeo game. Depois falamos da regulamentação dos jogos no Brasil, o papel do Ministério da Justiça, o amadurecimento da industria no Brasil, Lei Rouanet, apoio governamental e as dificuldades dos desenvolvedores indie no Brasil.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:03:38</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/01/cover-5-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 35 &#8211; Nintendo Switch, Keep Talking and Nobody Explodes e I Expect You to Die</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-35-nintendo-switch-keep-talking-and-nobody-explodes-e-i-expect-you-to-die</link>
+		<pubDate>Tue, 17 Jan 2017 09:51:17 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=477</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-35-nintendo-switch-keep-talking-and-nobody-explodes-e-i-expect-you-to-die#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-35-nintendo-switch-keep-talking-and-nobody-explodes-e-i-expect-you-to-die/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Nintendo Switch]]></category>
+		<category><![CDATA[Party Game]]></category>
+		<category><![CDATA[VR]]></category>
+		<description>Nesta semana o podcast não poderia começar falando de outra coisa: Nintendo Switch. No bloco principal Guilherme Moreira e Tiago Braccialli analisam um dos melhores jogos de VR: Keep Talking and Nobody Explodes cujo objetivo é desarmar bombas.</description>
+		<content:encoded><![CDATA[<p>Nesta semana o podcast não poderia começar falando de outra coisa: Nintendo Switch. Finalmente a Nintendo exibiu uma versão funcional do console! Revelou preço, especificação e maiores detalhes do console que, ao que tudo indica, terá uma pegada mais social.</p>
+<p>Também revelou alguns jogos que demonstram novos recursos da plataforma e grandes nomes como o novo Zelda, Splatoon 2 e que o Skyrim será realmente lançado para o console. Para quem gosta de esportes a EA lançara jogos de esporte para a plataforma, incluindo FIFA.</p>
+<p>No bloco principal Guilherme Moreira e Tiago Braccialli analisam um dos melhores jogos de VR: Keep Talking and Nobody Explodes cujo objetivo é desarmar bombas. O jogo, que surgiu de um Game Jam e também pode ser jogado sem VR, é uma experiência social e um ótimo party game, pois é necessário ao menos duas pessoas. Uma desarma a bomba e as outras, que não conseguem ver o que o jogador está vendo, precisam coordenar a tarefa de desarme da bomba.</p>
+<p>As bombas possuem vários dispositivos que devem ser desativados e cuja complexidade aumenta com o passar das fases.</p>
+<p>É um dos poucos jogos em que você é obrigado a ler o manual e ficar com ele o tempo todo disponível!</p>
+<p>De bônus Braccialli também analisou o jogo I Expect You to Die, no qual você assume a pele de um espião que precisa resolver puzzles para escapar de situações bastante inusitadas.</p>
+<h3>Os jogos</h3>
+<ul>
+<li><a href="http://www.keeptalkinggame.com/">Keep Talking and Nobody Explodes</a></li>
+<li><a href="https://iexpectyoutodie.schellgames.com/">I Expect You to Die</a></li>
+</ul>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte entrou no hype agora que a Nintendo revelou &#8220;de verdade&#8221; o Switch ? Explodiu muito tentando desarmar bombas no Keep Talking? Assumiu a pele de um James Bond de realidade virtual? Quer que o Prado volte, ou não? Deixe sua opinião aqui, ou em nossas redes sociais:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-035-Switch-Keep-Talking-e-I-expect-you-to-die.mp3" length="14838423" type="audio/mpeg" />
+		<itunes:subtitle>Nesta semana o podcast não poderia começar falando de outra coisa: Nintendo Switch. No bloco principal Guilherme Moreira e Tiago Braccialli analisam um dos melhores jogos de VR: Keep Talking and Nobody Explodes cujo objetivo é desarmar bombas.</itunes:subtitle>
+		<itunes:summary>Nesta semana o podcast não poderia começar falando de outra coisa: Nintendo Switch. No bloco principal Guilherme Moreira e Tiago Braccialli analisam um dos melhores jogos de VR: Keep Talking and Nobody Explodes cujo objetivo é desarmar bombas.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:29</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/01/cover-4-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 34 &#8211; Lootbox, Quest of Dungeons e Fieldrunners</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-34-lootbox-quest-of-dungeons-e-fieldrunners</link>
+		<pubDate>Tue, 10 Jan 2017 12:40:42 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=469</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-34-lootbox-quest-of-dungeons-e-fieldrunners#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-34-lootbox-quest-of-dungeons-e-fieldrunners/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Fieldrunners]]></category>
+		<category><![CDATA[Funko pop]]></category>
+		<category><![CDATA[Lootbox]]></category>
+		<category><![CDATA[Quest of Dungeons]]></category>
+		<category><![CDATA[Roguelite]]></category>
+		<category><![CDATA[Tower Defense]]></category>
+		<description>Esta semana o podcast é sobre lootbox, clubes por assinatura e dois jogos com foco em smartphones - Quest of Dungeons e Fieldrunners.</description>
+		<content:encoded><![CDATA[<p>Esta semana o podcast é sobre lootbox, clubes por assinatura e dois jogos com foco em smartphones &#8211; Quest of Dungeons e Fieldrunners.</p>
+<p>Guilherme Moreira, Guilherme Prado e Tiago Braccialli abrem o programa conversando sobre lootbox e clubes por assinatura, discutem as vantagens e desvantagens de receber produtos aleatórios todos os meses sem sair de casa.</p>
+<p>No bloco principal Moreira apresenta o português roguelite e dungeon crawler Quest of Dungeons e um dos avôs do gênero tower defense nos celulares Fieldrunners.</p>
+<h3>Os jogos</h3>
+<ul>
+<li><a href="http://www.questofdungeons.com/">Quest of Dungeons</a></li>
+<li><a href="http://subatomicstudios.com/games/fieldrunners/">Fieldrunners</a></li>
+</ul>
+<h3>Deixe seu recado</h3>
+<p>Assina algum lootbox, lootcrate ou clube? Jogou desesperadamente algum dos jogos do cast de hoje? Comprou o Olaf em promoção? Deixe sua opinião aqui ou em nossas redes sociais:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-034-Lootbox-Quest-of-Dungeons-Fieldrunners.mp3" length="15059236" type="audio/mpeg" />
+		<itunes:subtitle>Esta semana o podcast é sobre lootbox, clubes por assinatura e dois jogos com foco em smartphones - Quest of Dungeons e Fieldrunners.</itunes:subtitle>
+		<itunes:summary>Esta semana o podcast é sobre lootbox, clubes por assinatura e dois jogos com foco em smartphones - Quest of Dungeons e Fieldrunners.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>38:51</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/01/cover-2-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 33 &#8211; Retrospectiva 2016 &#8211; Os melhores jogos do último ano</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-33-retrospectiva-2016-os-melhores-jogos-do-ultimo-ano</link>
+		<pubDate>Tue, 03 Jan 2017 10:51:15 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=456</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-33-retrospectiva-2016-os-melhores-jogos-do-ultimo-ano#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-33-retrospectiva-2016-os-melhores-jogos-do-ultimo-ano/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[2016]]></category>
+		<category><![CDATA[Firewatch]]></category>
+		<category><![CDATA[Overwatch]]></category>
+		<category><![CDATA[Retrospectiva]]></category>
+		<category><![CDATA[Stardew Valley]]></category>
+		<category><![CDATA[The Witcher 3]]></category>
+		<category><![CDATA[Uncharted]]></category>
+		<description>No podcast desta semana Guilherme Prado, Tiago Braccialli e Guilherme Moreira discutem o ano de 2016 nos jogos e fazem as escolhas daqueles, que individualmente, acharam ser os melhores do ano que passou.</description>
+		<content:encoded><![CDATA[<p>No podcast desta semana Guilherme Prado, Tiago Braccialli e Guilherme Moreira discutem o ano de 2016 nos jogos e fazem as escolhas daqueles que, individualmente, acharam ser os melhores do ano que passou.</p>
+<p>Também comentam a triste morte da carismática Carrie Fisher.</p>
+<h3>Os Jogos</h3>
+<ol>
+<li> <a href="https://www.unchartedthegame.com/pt-br/">Uncharted 4</a> e <a href="https://playoverwatch.com/pt-br/">Overwatch</a></li>
+<li> <a href="http://www.firewatchgame.com/">Firewatch</a> (<a href="https://indiecast.com.br/indiecast/indiecast-3-firewatch">episódio do Indiecast</a>) e <a href="http://www.finalfantasyxv.com/pt-br">Final Fantasy XV</a></li>
+<li> <a href="http://stardewvalley.net/">Stardew Valley</a> (<a href="https://indiecast.com.br/indiecast/indiecast-32-stardew-valley-keep-talking-and-nobody-explodes">episódio Indiecast</a>) e <a href="http://thewitcher.com/en/witcher3">The Witcher &#8211; Blood and Wine</a>, <a href="http://www.keeptalkinggame.com/">Keep Talking and Nobody Explodes</a></li>
+<li> <a href="http://www.ghosttowngames.com/overcooked/">Overcooked</a> (<a href="https://indiecast.com.br/indiecast/indiecast-22-overcooked">episódio Indiecast</a>) e <a href="https://elderscrolls.bethesda.net/skyrim">Skyrim &#8211; Special Edition</a></li>
+<li> Keep Talking and Nobody Explodes e <a href="https://tomclancy-thedivision.ubi.com/game/pt-br/home/">The Division</a></li>
+</ol>
+<p>As menções honrosas: <a href="http://lazybeargames.com/punchclub/">Punch Club</a> (<a href="https://indiecast.com.br/indiecast/indiecast-28-caos-e-punch-club">Indiecast</a>), <a href="https://www.easports.com/br/fifa">Fifa 17</a>, <a href="http://us.battle.net/wow/pt/legion/">WoW &#8211; Legion</a>, <a href="http://www.pokemon-sunmoon.com/pt-pt/pokemon/">Pokemon Sun &amp; Moon</a>, <a href="http://www.playdead.com/games/inside/">Inside</a>, <a href="http://www.darkestdungeon.com/">Darkest Dungeon</a> (<a href="https://indiecast.com.br/indiecast/indiecast-12-darkest-dungeon-jered-leto-e-o-espetacular-nic-cage">Indiecast</a>), <a href="https://www.layersoffear.com/">Layers of Fear</a> (<a href="https://indiecast.com.br/indiecast/indiecast-24-layers-of-fear-halloween-e-vertigem-em-jogos-de-primeira-pessoa">Indiecast</a>) e <a href="https://iexpectyoutodie.schellgames.com/">I Expect You to Die</a></p>
+<p>&nbsp;</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=uGSL1dt3vaw">Jorge Pontual &#8220;homenageando&#8221; a Carrie Fisher</a></li>
+</ul>
+<h3>Deixe seu recado</h3>
+<p>E você ouvinte, quais jogos marcaram o seu 2016? Concorda ou discorda dessa lista? Nos ajude a fazer o Bracciali jogar Firewatch e Uncharted 4, deixando seu recado e opinião aqui no post ou em :</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-033-Retrospectiva-2016-Melhores-Jogos.mp3" length="17652255" type="audio/mpeg" />
+		<itunes:subtitle>No podcast desta semana Guilherme Prado, Tiago Braccialli e Guilherme Moreira discutem o ano de 2016 nos jogos e fazem as escolhas daqueles, que individualmente, acharam ser os melhores do ano que passou.</itunes:subtitle>
+		<itunes:summary>No podcast desta semana Guilherme Prado, Tiago Braccialli e Guilherme Moreira discutem o ano de 2016 nos jogos e fazem as escolhas daqueles, que individualmente, acharam ser os melhores do ano que passou.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:31</itunes:duration>
+		<rawvoice:poster url="https://indiecast.com.br/wp-content/uploads/2017/01/cover-1-300x300.jpg" />
+		</item>
+	<item>
+		<title>Indiecast 32 &#8211; Stardew Valley e Keep Talking and Nobody Explodes</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-32-stardew-valley-keep-talking-and-nobody-explodes</link>
+		<pubDate>Tue, 27 Dec 2016 04:57:23 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=425</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-32-stardew-valley-keep-talking-and-nobody-explodes#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-32-stardew-valley-keep-talking-and-nobody-explodes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Keep Talking and Nobody Explodes]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Star Wars]]></category>
+		<category><![CDATA[Stardew Valley]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>No podcast desta semana o incrível e aclamado Stardew Valley, um simulador sandbox de fazenda e relacionamentos com pitadas de RPG.
+
+Conheça motivos para jogá-lo, além de toda a polidez de um jogo produzido por apenas uma pessoa que quebrou vários recordes de público este ano.
+
+Na abertura Tiago Braccialli, Guilherme Moreira e Guilherme Prado falam um pouco do jogo indie e party game de realidade virtual Keep Talking and Nobody Explodes, cujo principal objetivo é o de desarmar bombas.</description>
+		<content:encoded><![CDATA[<p>No podcast desta semana o incrível e aclamado Stardew Valley, um simulador sandbox de fazenda e relacionamentos com pitadas de RPG.</p>
+<p>Conheça motivos para jogá-lo, além de toda a polidez de um jogo que quebrou vários recordes de público este ano e foi produzido por apenas uma pessoa.</p>
+<p>Na abertura Tiago Braccialli, Guilherme Moreira e Guilherme Prado falam um pouco do jogo indie e party game de realidade virtual Keep Talking and Nobody Explodes, cujo principal objetivo é o de desarmar bombas.</p>
+<p>E você ouvinte, já virou um fazendeiro de sucesso? Gosta de fishing? Se associou à Joja Cola? Construiu um império latifundiário? Ou apenas fez o mínimo necessário para curtir Stardew Valley? Deixe sua opinião aqui no post ou em :</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-032-Stardew-Valley-e-Keep-Talking-and-Nobody-Explodes.mp3" length="24511734" type="audio/mpeg" />
+		<itunes:subtitle>No podcast desta semana o incrível e aclamado Stardew Valley, um simulador sandbox de fazenda e relacionamentos com pitadas de RPG. - Conheça motivos para jogá-lo, além de toda a polidez de um jogo produzido por apenas uma pessoa que quebrou vários re...</itunes:subtitle>
+		<itunes:summary>No podcast desta semana o incrível e aclamado Stardew Valley, um simulador sandbox de fazenda e relacionamentos com pitadas de RPG.&lt;br /&gt;
+&lt;br /&gt;
+Conheça motivos para jogá-lo, além de toda a polidez de um jogo produzido por apenas uma pessoa que quebrou vários recordes de público este ano.&lt;br /&gt;
+&lt;br /&gt;
+Na abertura Tiago Braccialli, Guilherme Moreira e Guilherme Prado falam um pouco do jogo indie e party game de realidade virtual Keep Talking and Nobody Explodes, cujo principal objetivo é o de desarmar bombas.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:55</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 31 &#8211; Bastion, IoT e Android Things</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-31-bastion-iot-e-android-things</link>
+		<pubDate>Tue, 20 Dec 2016 22:50:10 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=420</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-31-bastion-iot-e-android-things#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-31-bastion-iot-e-android-things/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Android Things]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Bastion]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>No podcast sobre Bastion abrimos com um papo mais &quot;geek&quot; falando de internet das coisas (Internet of Things), Raspberry Pi e o lançamento do Google - Android Things. 
+
+E no bloco principal do Indiecast o fantástico e belíssimo jogo de action RPG Bastion. Desenvolvido pela Supergiant Games e publicado pela Warner Bros, o jogo possui várias características marcantes, como um narrador, trilha sonora premiada, cenários e animações que parecem pinturas premiadas. Em Bastion você controla o personagem &quot;the Kid&quot; cuja missão é reconstruir o &quot;Bastion&quot;.</description>
+		<content:encoded><![CDATA[<p>No podcast sobre Bastion abrimos com um papo mais &#8220;geek&#8221; falando de internet das coisas (Internet of Things), Raspberry Pi e o lançamento do Google &#8211; Android Things.</p>
+<p>E no bloco principal do Indiecast o fantástico e belíssimo jogo de action RPG Bastion. Desenvolvido pela Supergiant Games e publicado pela Warner Bros, o jogo possui várias características marcantes, como um narrador, trilha sonora premiada, cenários e animações que parecem pinturas premiadas. No jogo você controla o personagem &#8220;the Kid&#8221; cuja missão é reconstruir o &#8220;Bastion&#8221;.</p>
+<p>E você ouvinte, é desenvolvedor ou se interessa por Arduino, Raspberry ou IoT? Quase construiu a Skynet? Consegue achar um defeito em Bastion? Deixe seu recado aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-031-Bastion.mp3" length="29597563" type="audio/mpeg" />
+		<itunes:subtitle>No podcast sobre Bastion abrimos com um papo mais &quot;geek&quot; falando de internet das coisas (Internet of Things), Raspberry Pi e o lançamento do Google - Android Things.  - E no bloco principal do Indiecast o fantástico e belíssimo jogo de action RPG Bast...</itunes:subtitle>
+		<itunes:summary>No podcast sobre Bastion abrimos com um papo mais &quot;geek&quot; falando de internet das coisas (Internet of Things), Raspberry Pi e o lançamento do Google - Android Things. &lt;br /&gt;
+&lt;br /&gt;
+E no bloco principal do Indiecast o fantástico e belíssimo jogo de action RPG Bastion. Desenvolvido pela Supergiant Games e publicado pela Warner Bros, o jogo possui várias características marcantes, como um narrador, trilha sonora premiada, cenários e animações que parecem pinturas premiadas. Em Bastion você controla o personagem &quot;the Kid&quot; cuja missão é reconstruir o &quot;Bastion&quot;.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>45:13</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 30 &#8211; Coxinhas, Last Guardian e Super Time Force Ultra</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-30-coxinhas-last-guardian-e-super-time-force-ultra</link>
+		<pubDate>Tue, 13 Dec 2016 09:26:49 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=405</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-30-coxinhas-last-guardian-e-super-time-force-ultra#comments</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-30-coxinhas-last-guardian-e-super-time-force-ultra/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Contra]]></category>
+		<category><![CDATA[Diablo 3]]></category>
+		<category><![CDATA[Gunstar Heroes]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Super Time Force Ultra]]></category>
+		<category><![CDATA[Superbrothers: Sword & Sworcery EP]]></category>
+		<category><![CDATA[The Last Guardian]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>No episódio de hoje do podcast falamos do jogo de puzzle e bullet-hell Super Time Force Ultra, sua insana mecânica de manipulação do tempo e a história galhofa usando clichês dos anos 80 e filmes de viagem no tempo. Neste programa também criamos o selo Moreira de pixelart safada.
+
+Na abertura, Braccialli, Prado e Moreira, discutem o jeitinho brasileiro de fazer negócios que vende um cento de coxinhas &quot;bombado&quot;. Também falam dos motivos que não levaram o grupo a comprar The Last Guardian, dos projetos dos games que cada vez mais ficam longos e não entregam o prometido e continuam com as discussões de FFXV. Moreira conta o causo das fontes e Diablo 3 hardcore.</description>
+		<content:encoded><![CDATA[<p>No episódio de hoje do podcast falamos do jogo de puzzle e bullet-hell Super Time Force Ultra, sua insana mecânica de manipulação do tempo e a história galhofa usando clichês dos anos 80 e filmes de viagem no tempo. Neste programa também criamos o selo Moreira de pixelart safada.</p>
+<p>Na abertura do podcast, Braccialli, Prado e Moreira, discutem o jeitinho brasileiro de fazer negócios que vende um cento de coxinhas &#8220;bombado&#8221;. Também falam dos motivos que não levaram o grupo a comprar The Last Guardian, dos projetos dos games que cada vez mais ficam longos e não entregam o prometido e continuam com as discussões de FFXV. Moreira conta o causo das fontes e Diablo 3 hardcore.</p>
+<p>E você ouvinte, comprou The Last Guardian? Quase destruiu o universo com paradoxos de tempo no Super Time Force Ultra? Já comeu um cento de 175 coxinhas? Deixe seu recado aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+<p>Links:</p>
+<p><a href="https://youtu.be/xdAMr4qmKFA">Entrevista com o criador do Super Time Force Ultra (em inglês)</a></p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-030-Super-time-force-ultra.mp3" length="28217816" type="audio/mpeg" />
+		<itunes:subtitle>No episódio de hoje do podcast falamos do jogo de puzzle e bullet-hell Super Time Force Ultra, sua insana mecânica de manipulação do tempo e a história galhofa usando clichês dos anos 80 e filmes de viagem no tempo.</itunes:subtitle>
+		<itunes:summary>No episódio de hoje do podcast falamos do jogo de puzzle e bullet-hell Super Time Force Ultra, sua insana mecânica de manipulação do tempo e a história galhofa usando clichês dos anos 80 e filmes de viagem no tempo. Neste programa também criamos o selo Moreira de pixelart safada.&lt;br /&gt;
+&lt;br /&gt;
+Na abertura, Braccialli, Prado e Moreira, discutem o jeitinho brasileiro de fazer negócios que vende um cento de coxinhas &quot;bombado&quot;. Também falam dos motivos que não levaram o grupo a comprar The Last Guardian, dos projetos dos games que cada vez mais ficam longos e não entregam o prometido e continuam com as discussões de FFXV. Moreira conta o causo das fontes e Diablo 3 hardcore.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:37</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 29 &#8211; Final Fantasy XV, The Last of Us 2 e Undertale</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-29-final-fantasy-xv-the-last-of-us-2-e-undertale</link>
+		<pubDate>Tue, 06 Dec 2016 09:30:56 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=371</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-29-final-fantasy-xv-the-last-of-us-2-e-undertale#comments</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-29-final-fantasy-xv-the-last-of-us-2-e-undertale/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[FFXV]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[RPG]]></category>
+		<category><![CDATA[TLOU2]]></category>
+		<category><![CDATA[Undertale]]></category>
+		<description>O podcast de hoje começa com uma análise do JRPG mais famoso do planeta. No meio da gravação Moreira, Braccialli e Prado foram pegos de surpresa com o anuncio de The Last of Us 2 e aproveitaram para comentar rapidamente do que esperam da continuação daquele que, para alguns, é o melhor jogo de todos os tempos.
+
+No bloco principal o RPG indie Undertale. Na primeira parte, o trio evita spoilers e discute o gameplay, as sacadas e a abordagem nada ortodoxa desse excelente RPG. Na segunda parte, com spoilers leves tentando não prejudicar quem queira jogar Undertale, falam um pouco da história, dos personagens, inimigos e de vários aspectos da dubiedade que permeia o jogo.</description>
+		<content:encoded><![CDATA[<p>Uma semana bastante movimentada com o lançamento de Final Fantasy XV e o anúncio de The Last of Us 2.</p>
+<p>O podcast de hoje começa com uma análise do JRPG mais famoso do planeta. No meio da gravação Moreira, Braccialli e Prado foram pegos de surpresa com o anuncio de The Last of Us 2 e aproveitaram para comentar rapidamente do que esperam da continuação daquele que, para alguns, é o melhor jogo de todos os tempos.</p>
+<p>No bloco principal o RPG indie Undertale. Na primeira parte, o trio evita spoilers e discute o gameplay, as sacadas e a abordagem nada ortodoxa desse excelente RPG. Na segunda parte, com spoilers leves tentando não prejudicar quem queira jogar Undertale, falam um pouco da história, dos personagens, inimigos e de vários aspectos da dubiedade que permeia o jogo.</p>
+<p>E você ouvinte, já jogou Undertale? Foi uma experiência marcante? Tem a mesma opinião do Prado sobre a Toriel?</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-029-FFXV-TLOU2-e-Undertale.mp3" length="22240164" type="audio/mpeg" />
+		<itunes:subtitle>O podcast de hoje começa com uma análise do JRPG mais famoso do planeta. No meio da gravação Moreira, Braccialli e Prado foram pegos de surpresa com o anuncio de The Last of Us 2 e aproveitaram para comentar rapidamente do que esperam da continuação da...</itunes:subtitle>
+		<itunes:summary>O podcast de hoje começa com uma análise do JRPG mais famoso do planeta. No meio da gravação Moreira, Braccialli e Prado foram pegos de surpresa com o anuncio de The Last of Us 2 e aproveitaram para comentar rapidamente do que esperam da continuação daquele que, para alguns, é o melhor jogo de todos os tempos.&lt;br /&gt;
+&lt;br /&gt;
+No bloco principal o RPG indie Undertale. Na primeira parte, o trio evita spoilers e discute o gameplay, as sacadas e a abordagem nada ortodoxa desse excelente RPG. Na segunda parte, com spoilers leves tentando não prejudicar quem queira jogar Undertale, falam um pouco da história, dos personagens, inimigos e de vários aspectos da dubiedade que permeia o jogo.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:46</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 28 &#8211; Caos e Punch Club</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-28-caos-e-punch-club</link>
+		<pubDate>Tue, 29 Nov 2016 10:17:53 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=364</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-28-caos-e-punch-club#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-28-caos-e-punch-club/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Anos 80]]></category>
+		<category><![CDATA[Anos 90]]></category>
+		<category><![CDATA[Gerenciamento]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Simulação]]></category>
+		<category><![CDATA[Star Fox]]></category>
+		<category><![CDATA[Street Fighter]]></category>
+		<category><![CDATA[Tycoon]]></category>
+		<description>No episódio de hoje vencemos o Caos que tentou de todas as maneiras atrapalhar a gravação desta semana! Prado e Braccialli falam do jogo indie estilo &quot;Street Fighter Tycoon&quot; e homenagem aos anos 80 - Punch Club. Também discutimos um pouco sobre gráficos pixelados.</description>
+		<content:encoded><![CDATA[<p>No episódio de hoje vencemos o Caos que tentou de todas as maneiras atrapalhar a gravação desta semana! Prado e Braccialli falam do jogo indie estilo &#8220;Street Fighter Tycoon&#8221; e homenagem aos anos 80 &#8211; Punch Club. Também discutimos um pouco sobre gráficos pixelados.</p>
+<p>E você ouvinte, gosta de jogos de simulação e tycoon? Conseguiu derrotar os Crocodilos Ninjas?:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-028-Caos-e-Punch-Club.mp3" length="23484983" type="audio/mpeg" />
+		<itunes:subtitle>No episódio de hoje vencemos o Caos que tentou de todas as maneiras atrapalhar a gravação desta semana! Prado e Braccialli falam do jogo indie estilo &quot;Street Fighter Tycoon&quot; e homenagem aos anos 80 - Punch Club.</itunes:subtitle>
+		<itunes:summary>No episódio de hoje vencemos o Caos que tentou de todas as maneiras atrapalhar a gravação desta semana! Prado e Braccialli falam do jogo indie estilo &quot;Street Fighter Tycoon&quot; e homenagem aos anos 80 - Punch Club. Também discutimos um pouco sobre gráficos pixelados.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:12</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #27 &#8211; Don&#8217;t Starve e Pokemon Sun e Moon</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-27-dont-starve-e-pokemon-sun-e-moon</link>
+		<pubDate>Tue, 22 Nov 2016 09:17:29 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=354</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-27-dont-starve-e-pokemon-sun-e-moon#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-27-dont-starve-e-pokemon-sun-e-moon/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Don't Starve]]></category>
+		<category><![CDATA[Don't Starve Together]]></category>
+		<category><![CDATA[O Estranho Mundo de Jack]]></category>
+		<category><![CDATA[Pokemon]]></category>
+		<category><![CDATA[Pokemon Sun e Moon]]></category>
+		<category><![CDATA[Steampunk]]></category>
+		<category><![CDATA[Tim Burton]]></category>
+		<description>Braccialli, Prado e Moreira discutem o lançamento da semana Pokemon Sun e Moon e a performance sofrível da fim de vida do 3DS. No bloco principal analisamos um excelente jogo indie de sobrevivência Don&#039;t Starve.</description>
+		<content:encoded><![CDATA[<p>Braccialli, Prado e Moreira discutem o lançamento da semana Pokemon Sun e Moon e a performance sofrível da fim de vida do 3DS. No bloco principal analisamos um excelente jogo indie de sobrevivência Don&#8217;t Starve.</p>
+<p>E você ouvinte, já terminou a história do Don&#8217;t Starve? Ou só consegue morrer de fome ou ficar insano? Deixe seu comentário aqui ou em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana.</p>
+<p>&nbsp;</p>
+<p>Alola Meowth doidão:</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-357" src="https://indiecast.com.br/wp-content/uploads/2016/11/a-meowth-300x300.png" alt="a-meowth" width="300" height="300" /></p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-027-Dont-Starve-e-Pokemon-SM.mp3" length="21090049" type="audio/mpeg" />
+		<itunes:subtitle>Braccialli, Prado e Moreira discutem o lançamento da semana Pokemon Sun e Moon e a performance sofrível da fim de vida do 3DS. No bloco principal analisamos um excelente jogo indie de sobrevivência Don&#039;t Starve.</itunes:subtitle>
+		<itunes:summary>Braccialli, Prado e Moreira discutem o lançamento da semana Pokemon Sun e Moon e a performance sofrível da fim de vida do 3DS. No bloco principal analisamos um excelente jogo indie de sobrevivência Don&#039;t Starve.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>54:10</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #26 &#8211; Músicas que marcaram nos vídeo games</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-26-musicas-que-marcaram-nos-video-games</link>
+		<pubDate>Tue, 15 Nov 2016 11:05:59 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=344</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-26-musicas-que-marcaram-nos-video-games#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-26-musicas-que-marcaram-nos-video-games/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Bastion]]></category>
+		<category><![CDATA[Child of Light]]></category>
+		<category><![CDATA[Chrono Trigger]]></category>
+		<category><![CDATA[Diablo III]]></category>
+		<category><![CDATA[Final Fantasy VII]]></category>
+		<category><![CDATA[Hotline Miami]]></category>
+		<category><![CDATA[Journey]]></category>
+		<category><![CDATA[Koji Kondo]]></category>
+		<category><![CDATA[Life is Strange]]></category>
+		<category><![CDATA[Red Dead Redemption]]></category>
+		<category><![CDATA[Streets of Rage]]></category>
+		<category><![CDATA[Super Mario Galaxy]]></category>
+		<category><![CDATA[Super Mario World]]></category>
+		<category><![CDATA[The Legend of Zelda]]></category>
+		<category><![CDATA[The Witcher 3]]></category>
+		<category><![CDATA[Top Gear]]></category>
+		<description>Moreira, Braccialli e Prado mais uma vez sabotam o cast que seria de Hotline Miami e falam sobre músicas que marcaram nos vídeo games, passando por compositores consagrados do mundo dos jogos e também por compositores indies.</description>
+		<content:encoded><![CDATA[<p>Moreira, Braccialli e Prado mais uma vez sabotam o cast que seria de Hotline Miami e falam sobre músicas que marcaram nos jogos, passando por compositores consagrados do mundo dos jogos e também por compositores indies.</p>
+<p>Também disponibilizamos a <a href="https://goo.gl/4ms9jo">lista no spotify com as músicas do cast</a>.</p>
+<p>E você ouvinte, qual a sua lista de músicas que marcaram? Deixe a sua lista aqui no post ou nas nossas redes sociais:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/c/IndiecastBr">youtube</a></li>
+</ul>
+<p>Até a próxima semana e não se esqueça da capa de chuva. Quem sabe na próxima semana não sai o podcast sobre Hotline Miami?</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-350" src="https://indiecast.com.br/wp-content/uploads/2016/11/futurama-mexico-300x203.jpg" alt="futurama-mexico" width="300" height="203" srcset="https://indiecast.com.br/wp-content/uploads/2016/11/futurama-mexico-300x203.jpg 300w, https://indiecast.com.br/wp-content/uploads/2016/11/futurama-mexico.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-026-Musicas-que-marcaram-nos-video-games.mp3" length="32777962" type="audio/mpeg" />
+		<itunes:subtitle>Moreira, Braccialli e Prado mais uma vez sabotam o cast que seria de Hotline Miami e falam sobre músicas que marcaram nos vídeo games, passando por compositores consagrados do mundo dos jogos e também por compositores indies.</itunes:subtitle>
+		<itunes:summary>Moreira, Braccialli e Prado mais uma vez sabotam o cast que seria de Hotline Miami e falam sobre músicas que marcaram nos vídeo games, passando por compositores consagrados do mundo dos jogos e também por compositores indies.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:37</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #25 &#8211; Realidade Virtual</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-25-realidade-virtual</link>
+		<pubDate>Tue, 08 Nov 2016 09:18:31 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=294</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-25-realidade-virtual#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-25-realidade-virtual/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[HTC Vive]]></category>
+		<category><![CDATA[Mundo simulado]]></category>
+		<category><![CDATA[Oculus Rift]]></category>
+		<category><![CDATA[PS VR]]></category>
+		<category><![CDATA[Realidade Virtual]]></category>
+		<category><![CDATA[The Brookhaven Experiment]]></category>
+		<category><![CDATA[The Lab]]></category>
+		<category><![CDATA[Valve]]></category>
+		<category><![CDATA[VR]]></category>
+		<description>No episódio desta semana Prado, Moreira e Braccialli recebem João(JP) e Jairton para conversar sobre o assunto do momento dos vídeo-games: Realidade Virtual!
+
+Falamos sobre a tecnologia, HTC Vive, Oculus Rift e PS VR, além de vários jogos, simulações e o mundo simulado (ou seria real?).</description>
+		<content:encoded><![CDATA[<p>No episódio desta semana Prado, Moreira e Braccialli recebem João(JP) e Jairton para conversar sobre o assunto do momento dos vídeo-games: Realidade Virtual!</p>
+<p>Falamos sobre a tecnologia, HTC Vive, Oculus Rift e PS VR, além de vários jogos, simulações e o mundo simulado (ou seria real?).</p>
+<p>E não se esqueça de conferir <a href="https://indiecast.com.br/analises/htc-vive-uma-porta-de-entrada-para-a-rv-ou-uma-tecnologia-sem-muito-futuro">o post sobre os headsets de VR aqui no Indiecast</a>.</p>
+<p>Já jogou jogos no Vive, Oculus ou PS VR? Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/channel/UC19qP2eQ9MBoluzzC3g-jgQ">youtube</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-025-Realidade-Virtual.mp3" length="25835717" type="audio/mpeg" />
+		<itunes:subtitle>No episódio desta semana Prado, Moreira e Braccialli recebem João(JP) e Jairton para conversar sobre o assunto do momento dos vídeo-games: Realidade Virtual! - Falamos sobre a tecnologia, HTC Vive, Oculus Rift e PS VR, além de vários jogos,</itunes:subtitle>
+		<itunes:summary>No episódio desta semana Prado, Moreira e Braccialli recebem João(JP) e Jairton para conversar sobre o assunto do momento dos vídeo-games: Realidade Virtual!&lt;br /&gt;
+&lt;br /&gt;
+Falamos sobre a tecnologia, HTC Vive, Oculus Rift e PS VR, além de vários jogos, simulações e o mundo simulado (ou seria real?).</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:10:15</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #24 &#8211; Layers of Fear, Halloween e vertigem em jogos de primeira pessoa</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-24-layers-of-fear-halloween-e-vertigem-em-jogos-de-primeira-pessoa</link>
+		<pubDate>Sun, 30 Oct 2016 22:00:34 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=231</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-24-layers-of-fear-halloween-e-vertigem-em-jogos-de-primeira-pessoa#comments</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-24-layers-of-fear-halloween-e-vertigem-em-jogos-de-primeira-pessoa/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Halloween]]></category>
+		<category><![CDATA[Horror]]></category>
+		<category><![CDATA[Layers of Fear]]></category>
+		<category><![CDATA[Terror psicológico]]></category>
+		<category><![CDATA[Vertigem]]></category>
+		<description>Na semana mais aterrorizante do ano um Indiecast antecipado para falar do demente jogo de horror Layers of Fear.
+
+Braccialli, Prado e Moreira também conversam sobre a segunda coisa que mais dá medo em adultos, os filhos, além de um mal que afeta muitos jogadores de vídeo games: a vertigem em jogos de primeira pessoa.</description>
+		<content:encoded><![CDATA[<p>Na semana mais aterrorizante do ano um Indiecast antecipado para falar do demente jogo de horror Layers of Fear.</p>
+<p>Braccialli, Prado e Moreira também conversam sobre a segunda coisa que mais dá medo em adultos, os filhos, além de um mal que afeta muitos jogadores de vídeo games: a vertigem em jogos de primeira pessoa.<!--more--></p>
+<p>Não se esqueça de deixar sua risada macabra, fotos do que jogou no halloween, opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter – <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook – <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/channel/UC19qP2eQ9MBoluzzC3g-jgQ">youtube</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-024-Layers-of-Fear-Halloween-e-vertigem-em-jogos-1-pessoa.mp3" length="32325998" type="audio/mpeg" />
+		<itunes:subtitle>Na semana mais aterrorizante do ano um Indiecast antecipado para falar do demente jogo de horror Layers of Fear. - Braccialli, Prado e Moreira também conversam sobre a segunda coisa que mais dá medo em adultos, os filhos,</itunes:subtitle>
+		<itunes:summary>Na semana mais aterrorizante do ano um Indiecast antecipado para falar do demente jogo de horror Layers of Fear.&lt;br /&gt;
+&lt;br /&gt;
+Braccialli, Prado e Moreira também conversam sobre a segunda coisa que mais dá medo em adultos, os filhos, além de um mal que afeta muitos jogadores de vídeo games: a vertigem em jogos de primeira pessoa.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:46</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #23 &#8211; Nintendo Switch</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-23-nintendo-switch</link>
+		<pubDate>Tue, 25 Oct 2016 02:49:42 +0000</pubDate>
+		<guid isPermaLink="false">https://indiecast.com.br/?p=145</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-23-nintendo-switch#comments</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-23-nintendo-switch/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[Nintendo NX]]></category>
+		<category><![CDATA[Nintendo Switch]]></category>
+		<category><![CDATA[Red Dead Redemption 2]]></category>
+		<category><![CDATA[Rockstar]]></category>
+		<category><![CDATA[Super Mario]]></category>
+		<description>Parem as máquinas! A Nintendo anunciou o Nintendo NX, ou melhor, o Nintendo Switch.
+
+No episódio de hoje discutimos o novo console da Nintendo,  que sabotou o anúncio da Rockstar e de quebra a pauta desta semana! Também falamos dos impactos para a Nintendo, o que esperar da plataforma e o suporte aos jogos indie.
+
+Ficou animado com o anúncio? Vai começar a guardar dinheiro para comprar uma unidade em 2017?</description>
+		<content:encoded><![CDATA[<p>Parem as máquinas! A Nintendo anunciou o Nintendo NX, ou melhor, o Nintendo Switch.</p>
+<p>No episódio de hoje discutimos o novo console da Nintendo,  que sabotou o anúncio da Rockstar e de quebra a pauta desta semana! Também falamos dos impactos para a Nintendo, o que esperar da plataforma e o suporte aos jogos indie.</p>
+<p>Ficou animado com o anúncio? Vai começar a guardar dinheiro para comprar uma unidade em 2017?</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/channel/UC19qP2eQ9MBoluzzC3g-jgQ">youtube</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-023-Nintendo-Switch.mp3" length="16370134" type="audio/mpeg" />
+		<itunes:subtitle>Parem as máquinas! A Nintendo anunciou o Nintendo NX, ou melhor, o Nintendo Switch. - No episódio de hoje discutimos o novo console da Nintendo,  que sabotou o anúncio da Rockstar e de quebra a pauta desta semana!</itunes:subtitle>
+		<itunes:summary>Parem as máquinas! A Nintendo anunciou o Nintendo NX, ou melhor, o Nintendo Switch.&lt;br /&gt;
+&lt;br /&gt;
+No episódio de hoje discutimos o novo console da Nintendo,  que sabotou o anúncio da Rockstar e de quebra a pauta desta semana! Também falamos dos impactos para a Nintendo, o que esperar da plataforma e o suporte aos jogos indie.&lt;br /&gt;
+&lt;br /&gt;
+Ficou animado com o anúncio? Vai começar a guardar dinheiro para comprar uma unidade em 2017?</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:46</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #22 &#8211; Overcooked</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-22-overcooked</link>
+		<pubDate>Wed, 19 Oct 2016 00:09:03 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=91</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-22-overcooked#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-22-overcooked/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Comidas]]></category>
+		<category><![CDATA[Masterchef]]></category>
+		<category><![CDATA[Overcooked]]></category>
+		<category><![CDATA[Simulação]]></category>
+		<description>Guilherme Moreira, Tiago Braccialli e Guilherme Prado discutem o surpreendente jogo cooperativo de pilotar fogão: Overcooked. Também conversam sobre masterchef, cozinhar na vida real e, é claro, comidas!</description>
+		<content:encoded><![CDATA[<p>Guilherme Moreira, Tiago Braccialli e Guilherme Prado discutem o surpreendente jogo cooperativo de pilotar fogão: Overcooked. Também conversam sobre masterchef, cozinhar na vida real e, é claro, comidas!</p>
+<p>Gosta de chuchu com coentro? E pizza com ketchup ou catupiry e bacon? Já brigou com o irmão ou com o amigo por causa do Overcooked? Ou faria bonito na frente do Gordon Ramsey?</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/channel/UC19qP2eQ9MBoluzzC3g-jgQ">youtube</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-022-Overcooked.mp3" length="21570668" type="audio/mpeg" />
+		<itunes:subtitle>Guilherme Moreira, Tiago Braccialli e Guilherme Prado discutem o surpreendente jogo cooperativo de pilotar fogão: Overcooked. Também conversam sobre masterchef, cozinhar na vida real e, é claro, comidas!</itunes:subtitle>
+		<itunes:summary>Guilherme Moreira, Tiago Braccialli e Guilherme Prado discutem o surpreendente jogo cooperativo de pilotar fogão: Overcooked. Também conversam sobre masterchef, cozinhar na vida real e, é claro, comidas!</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>39:47</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #21 &#8211; Rogue Legacy e os Alpha e Beta fechados</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-21-rogue-legacy-e-os-alpha-e-beta-fechados</link>
+		<pubDate>Wed, 12 Oct 2016 00:06:42 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=88</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-21-rogue-legacy-e-os-alpha-e-beta-fechados#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-21-rogue-legacy-e-os-alpha-e-beta-fechados/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Alpha]]></category>
+		<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Plataforma]]></category>
+		<category><![CDATA[Rogue Legacy]]></category>
+		<category><![CDATA[Roguelite]]></category>
+		<description>Nesta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre a experiência de jogar alpha e betas fechados e o excelente roguelight e matador de herdeiros: Rogue Legacy.</description>
+		<content:encoded><![CDATA[<p>Nesta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre a experiência de jogar alpha e betas fechados e o excelente roguelight e matador de herdeiros: Rogue Legacy.</p>
+<p>E você segue em frente e olha para o lado? Tem o youtube liberado no trabalho? Precisou de quantas gerações para terminar Rogue Legacy?</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Canal no <a href="https://www.youtube.com/channel/UC19qP2eQ9MBoluzzC3g-jgQ">youtube</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-021-Rogue-Legacy.mp3" length="24517452" type="audio/mpeg" />
+		<itunes:subtitle>Nesta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre a experiência de jogar alpha e betas fechados e o excelente roguelight e matador de herdeiros: Rogue Legacy.</itunes:subtitle>
+		<itunes:summary>Nesta semana Guilherme Prado, Guilherme Moreira e Tiago Braccialli conversam sobre a experiência de jogar alpha e betas fechados e o excelente roguelight e matador de herdeiros: Rogue Legacy.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:57</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #20 &#8211; This War of Mine</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-20-this-war-of-mine</link>
+		<pubDate>Wed, 05 Oct 2016 00:03:01 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=85</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-20-this-war-of-mine#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-20-this-war-of-mine/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Ação e Aventura]]></category>
+		<category><![CDATA[Guerra]]></category>
+		<category><![CDATA[Simulação]]></category>
+		<category><![CDATA[This War of Mine]]></category>
+		<description>Nos video games a guerra é bela e retratada pela visão dos combatentes. Quebrando esse clichê, ao expor a precariedade, dilemas e medos pelos quais os civis presos na guerra passam, Prado, Moreira, Tiago Braccialli e Luis Fernando discutem o aclamado This War of Mine.
+
+Também lembram os jogos horríveis em que queimamos nosso suado dinheiro.
+
+E você perdeu dinheiro comprando algum jogo ruim? Quais as suas experiências com This War of Mine?</description>
+		<content:encoded><![CDATA[<p>Nos video games a guerra é bela e retratada pela visão dos combatentes. Quebrando esse clichê, ao expor a precariedade, dilemas e medos pelos quais os civis presos na guerra passam, Prado, Moreira, Tiago Braccialli e Luis Fernando discutem o aclamado This War of Mine.</p>
+<p>Também lembram os jogos horríveis em que queimamos nosso suado dinheiro.</p>
+<p>E você perdeu dinheiro comprando algum jogo ruim? Quais as suas experiências com This War of Mine?</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-020-This-war-of-mine.mp3" length="43712709" type="audio/mpeg" />
+		<itunes:subtitle>Nos video games a guerra é bela e retratada pela visão dos combatentes. Quebrando esse clichê, ao expor a precariedade, dilemas e medos pelos quais os civis presos na guerra passam, Prado, Moreira, Tiago Braccialli e Luis Fernando discutem o aclamado T...</itunes:subtitle>
+		<itunes:summary>Nos video games a guerra é bela e retratada pela visão dos combatentes. Quebrando esse clichê, ao expor a precariedade, dilemas e medos pelos quais os civis presos na guerra passam, Prado, Moreira, Tiago Braccialli e Luis Fernando discutem o aclamado This War of Mine.&lt;br /&gt;
+&lt;br /&gt;
+Também lembram os jogos horríveis em que queimamos nosso suado dinheiro.&lt;br /&gt;
+&lt;br /&gt;
+E você perdeu dinheiro comprando algum jogo ruim? Quais as suas experiências com This War of Mine?</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:12:12</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #19 &#8211; Limbo, Bojack e os video games como forma de arte.</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-19-limbo-bojack-e-os-video-games-como-forma-de-arte</link>
+		<pubDate>Tue, 27 Sep 2016 23:59:50 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=82</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-19-limbo-bojack-e-os-video-games-como-forma-de-arte#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-19-limbo-bojack-e-os-video-games-como-forma-de-arte/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Arte]]></category>
+		<category><![CDATA[Bojack Horseman]]></category>
+		<category><![CDATA[Kojima]]></category>
+		<category><![CDATA[Limbo]]></category>
+		<category><![CDATA[Mad Man]]></category>
+		<category><![CDATA[Plataforma]]></category>
+		<category><![CDATA[Puzzle]]></category>
+		<description>Moreira, Prado e Lucas discutem se video games podem ser considerados arte, além de comentar sobre Bojack Horseman, Mad Men e até Kojima.
+
+Para ilustrar o aspecto arte dos video games o jogo indie escolhido foi o aclamado Limbo.</description>
+		<content:encoded><![CDATA[<p>Moreira, Prado e Lucas discutem se video games podem ser considerados arte, além de comentar sobre Bojack Horseman, Mad Men e até Kojima.</p>
+<p>Para ilustrar o aspecto arte dos video games o jogo indie escolhido foi o aclamado Limbo.</p>
+<p>Seria Limbo uma obra prima e arte dos video games? Qual a sua teoria sobre Limbo? Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-019-Limbo.mp3" length="39618391" type="audio/mpeg" />
+		<itunes:subtitle>Moreira, Prado e Lucas discutem se video games podem ser considerados arte, além de comentar sobre Bojack Horseman, Mad Men e até Kojima. - Para ilustrar o aspecto arte dos video games o jogo indie escolhido foi o aclamado Limbo.</itunes:subtitle>
+		<itunes:summary>Moreira, Prado e Lucas discutem se video games podem ser considerados arte, além de comentar sobre Bojack Horseman, Mad Men e até Kojima.&lt;br /&gt;
+&lt;br /&gt;
+Para ilustrar o aspecto arte dos video games o jogo indie escolhido foi o aclamado Limbo.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>59:46</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #18 &#8211; Machinarium</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-18-machinarium</link>
+		<pubDate>Tue, 20 Sep 2016 23:57:01 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=79</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-18-machinarium#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-18-machinarium/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Aventura]]></category>
+		<category><![CDATA[Machinarium]]></category>
+		<category><![CDATA[Point and click]]></category>
+		<description>Moreira e Prado conversam sobre um estilo de jogo que vem sumindo ao longo do tempo, mas que possui uma quantidade considerável de fãs: os adventures point-and-click e trazem um clássico indie desse estilo o belíssimo Machinarium!</description>
+		<content:encoded><![CDATA[<p>Moreira e Prado conversam sobre um estilo de jogo que vem sumindo ao longo do tempo, mas que possui uma quantidade considerável de fãs: os adventures point-and-click e trazem um clássico indie desse estilo o belíssimo Machinarium!</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Feed para <a href="https://feeds.feedburner.com/indiecastcombr">Android</a></li>
+<li>Feed para <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes/Mac/iOS</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Até a próxima terça!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-018-Machinarium.mp3" length="27932000" type="audio/mpeg" />
+		<itunes:subtitle>Moreira e Prado conversam sobre um estilo de jogo que vem sumindo ao longo do tempo, mas que possui uma quantidade considerável de fãs: os adventures point-and-click e trazem um clássico indie desse estilo o belíssimo Machinarium!</itunes:subtitle>
+		<itunes:summary>Moreira e Prado conversam sobre um estilo de jogo que vem sumindo ao longo do tempo, mas que possui uma quantidade considerável de fãs: os adventures point-and-click e trazem um clássico indie desse estilo o belíssimo Machinarium!</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:16</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #17 &#8211; Brasil Game Show 2016</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-17-brasil-game-show-2016</link>
+		<pubDate>Tue, 13 Sep 2016 23:53:42 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=76</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-17-brasil-game-show-2016#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-17-brasil-game-show-2016/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[BGS]]></category>
+		<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[Brindes]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<description>Moreira e Prado com a presença do estimado convidado Tiago Braccialli, discutem sobre a Brasil Game Show 2016, a maior feira de jogos da américa latina.
+
+As discusões começam pelos brindes, passam pelas grandes empresas e jogos e terminam com os desenvolvedores indies presentes na feira.</description>
+		<content:encoded><![CDATA[<p>Moreira e Prado com a presença do estimado convidado Tiago Braccialli, discutem sobre a Brasil Game Show 2016, a maior feira de jogos da américa latina.</p>
+<p>As discusões começam pelos brindes, passam pelas grandes empresas e jogos e terminam com os desenvolvedores indies presentes na feira.</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Ou aqui no disqus do post mesmo.</p>
+<p>Até a próxima semana!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-017-BGS.mp3" length="40169085" type="audio/mpeg" />
+		<itunes:subtitle>Moreira e Prado com a presença do estimado convidado Tiago Braccialli, discutem sobre a Brasil Game Show 2016, a maior feira de jogos da américa latina. - As discusões começam pelos brindes, passam pelas grandes empresas e jogos e terminam com os dese...</itunes:subtitle>
+		<itunes:summary>Moreira e Prado com a presença do estimado convidado Tiago Braccialli, discutem sobre a Brasil Game Show 2016, a maior feira de jogos da américa latina.&lt;br /&gt;
+&lt;br /&gt;
+As discusões começam pelos brindes, passam pelas grandes empresas e jogos e terminam com os desenvolvedores indies presentes na feira.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:09:48</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #16 &#8211; Catherine, jogos AAA, A e B.</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-16-catherine-jogos-aaa-a-e-b</link>
+		<pubDate>Thu, 01 Sep 2016 23:50:42 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=73</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-16-catherine-jogos-aaa-a-e-b#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-16-catherine-jogos-aaa-a-e-b/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Catherine]]></category>
+		<category><![CDATA[Controle]]></category>
+		<category><![CDATA[Ni no Kuni]]></category>
+		<category><![CDATA[Plataforma]]></category>
+		<category><![CDATA[Puzzle]]></category>
+		<category><![CDATA[The Witcher 3]]></category>
+		<description>Esta semana Moreira e Prado discutem um pouco sobre jogos AAA, A e B e aproveitam para analisar o enigmático puzzle de plataforma Catherine.
+
+Também fogem um pouco do foco falando de Ni no Kuni, Witcher 3 e controles de console de vídeo game.</description>
+		<content:encoded><![CDATA[<p>Esta semana Moreira e Prado discutem um pouco sobre jogos AAA, A e B e aproveitam para analisar o enigmático puzzle de plataforma Catherine.</p>
+<p>Também fogem um pouco do foco falando de Ni no Kuni, Witcher 3 e controles de console de vídeo game.</p>
+<p>E você já jogou Catherine? Pretende jogar ou jogar novamente? Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Ou aqui no disqus do post mesmo.</p>
+<p>Até a próxima sexta!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-016-Catherine-Jogos-AAA-A-e-B.mp3" length="31340052" type="audio/mpeg" />
+		<itunes:subtitle>Esta semana Moreira e Prado discutem um pouco sobre jogos AAA, A e B e aproveitam para analisar o enigmático puzzle de plataforma Catherine. - Também fogem um pouco do foco falando de Ni no Kuni, Witcher 3 e controles de console de vídeo game.</itunes:subtitle>
+		<itunes:summary>Esta semana Moreira e Prado discutem um pouco sobre jogos AAA, A e B e aproveitam para analisar o enigmático puzzle de plataforma Catherine.&lt;br /&gt;
+&lt;br /&gt;
+Também fogem um pouco do foco falando de Ni no Kuni, Witcher 3 e controles de console de vídeo game.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>54:00</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #15 &#8211; No Man&#8217;s Sky, troféus e conquistas.</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-15-no-mans-sky-trofeus-e-conquistas</link>
+		<pubDate>Fri, 26 Aug 2016 23:48:00 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=70</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-15-no-mans-sky-trofeus-e-conquistas#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-15-no-mans-sky-trofeus-e-conquistas/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Ação e Aventura]]></category>
+		<category><![CDATA[Hype]]></category>
+		<category><![CDATA[No Man's Sky]]></category>
+		<category><![CDATA[Sobrevivência]]></category>
+		<category><![CDATA[South Park]]></category>
+		<category><![CDATA[Troféu]]></category>
+		<description>Esta semana Moreira e Prado analisam, pós hype, o indie No Man’s Sky e indicam será que vale a pena a compra ou é melhor esperar?
+
+Também conversam um pouco sobre conquistas, troféus, South Park e traduções literais.
+
+E você, é caçador de troféus e conquistas? Não dá a mínima? Comprou No Man’s Sky, passou ou preferiu esperar?</description>
+		<content:encoded><![CDATA[<p>Esta semana Moreira e Prado analisam, pós hype, o indie No Man’s Sky e indicam será que vale a pena a compra ou é melhor esperar?</p>
+<p>Também conversam um pouco sobre conquistas, troféus, South Park e traduções literais.</p>
+<p>E você, é caçador de troféus e conquistas? Não dá a mínima? Comprou No Man’s Sky, passou ou preferiu esperar?</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Ou aqui no disqus do post mesmo.</p>
+<p>Sexta que vem tem mais!</p>
+<p>Links:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4duJdeKTwHY">South Park sobre Freemium</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-015-NMS.mp3" length="22066296" type="audio/mpeg" />
+		<itunes:subtitle>Esta semana Moreira e Prado analisam, pós hype, o indie No Man’s Sky e indicam será que vale a pena a compra ou é melhor esperar? - Também conversam um pouco sobre conquistas, troféus, South Park e traduções literais. - E você,</itunes:subtitle>
+		<itunes:summary>Esta semana Moreira e Prado analisam, pós hype, o indie No Man’s Sky e indicam será que vale a pena a compra ou é melhor esperar?&lt;br /&gt;
+&lt;br /&gt;
+Também conversam um pouco sobre conquistas, troféus, South Park e traduções literais.&lt;br /&gt;
+&lt;br /&gt;
+E você, é caçador de troféus e conquistas? Não dá a mínima? Comprou No Man’s Sky, passou ou preferiu esperar?</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>33:27</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #14 &#8211; Journey, Flower e Flow</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-14-journey-flower-e-flow</link>
+		<pubDate>Fri, 19 Aug 2016 23:43:48 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=67</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-14-journey-flower-e-flow#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-14-journey-flower-e-flow/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Flow]]></category>
+		<category><![CDATA[Flower]]></category>
+		<category><![CDATA[Journey]]></category>
+		<category><![CDATA[Playstation]]></category>
+		<category><![CDATA[PS3]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Sony]]></category>
+		<description>No programa desta semana Moreira e Prado comentam o trio de jogos da That Game Company:
+Flower, flOw e uma das maiores obras primas dos vídeo games: Journey.</description>
+		<content:encoded><![CDATA[<p>No programa desta semana Moreira e Prado comentam o trio de jogos da That Game Company:<br />
+<a href="http://thatgamecompany.com/games/flower/">Flower</a>, <a href="http://thatgamecompany.com/games/flow/">flOw</a> e uma das maiores obras primas dos vídeo games: <a href="http://thatgamecompany.com/games/journey/">Journey</a>.</p>
+<p>Deixe sua opinião, sugestão ou crítica em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Ou aqui no post mesmo.</p>
+<p>Sexta que vem tem mais!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-014-Journey-Flower-Flow.mp3" length="51486570" type="audio/mpeg" />
+		<itunes:subtitle>No programa desta semana Moreira e Prado comentam o trio de jogos da That Game Company: Flower, flOw e uma das maiores obras primas dos vídeo games: Journey.</itunes:subtitle>
+		<itunes:summary>No programa desta semana Moreira e Prado comentam o trio de jogos da That Game Company:&lt;br /&gt;
+Flower, flOw e uma das maiores obras primas dos vídeo games: Journey.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:29</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #13 &#8211; No Man&#8217;s Sky e Pokemon Go</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-13-no-mans-sky-e-pokemon-go</link>
+		<pubDate>Fri, 12 Aug 2016 23:38:34 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=63</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-13-no-mans-sky-e-pokemon-go#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-13-no-mans-sky-e-pokemon-go/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Hype]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[No Man's Sky]]></category>
+		<category><![CDATA[Pokemon Go]]></category>
+		<category><![CDATA[PS4]]></category>
+		<description>Prado e Moreira discutem sobre os hiper-mega-hypes No Man’s Sky e Pokemon Go, Nintendo e controles de video-game.</description>
+		<content:encoded><![CDATA[<p>Prado e Moreira discutem sobre os hiper-mega-hypes No Man’s Sky e Pokemon Go, Nintendo e controles de video-game.</p>
+<p>Siga a gente em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+<li>Feed para <a href="https://feeds.feedburner.com/indiecastcombr">Android</a></li>
+<li>Feed para <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes/Mac/iOS</a></li>
+</ul>
+<p>Até a próxima sexta!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-013-Pokemon-Go-NMS.mp3" length="26387439" type="audio/mpeg" />
+		<itunes:subtitle>Prado e Moreira discutem sobre os hiper-mega-hypes No Man’s Sky e Pokemon Go, Nintendo e controles de video-game.</itunes:subtitle>
+		<itunes:summary>Prado e Moreira discutem sobre os hiper-mega-hypes No Man’s Sky e Pokemon Go, Nintendo e controles de video-game.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:26</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #12 &#8211; Darkest Dungeon, Jered Leto e o espetacular Nic Cage</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-12-darkest-dungeon-jered-leto-e-o-espetacular-nic-cage</link>
+		<pubDate>Fri, 05 Aug 2016 23:32:20 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=60</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-12-darkest-dungeon-jered-leto-e-o-espetacular-nic-cage#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-12-darkest-dungeon-jered-leto-e-o-espetacular-nic-cage/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Darkest Dungeon]]></category>
+		<category><![CDATA[Jered Leto]]></category>
+		<category><![CDATA[Nicholas Cage]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>No programa desta semana analisamos o jogo indie Darkest Dungeon, um rogue like com pitadas de gerenciamento de recursos, combates por turno e insanidade.
+
+E aproveitando a estréia de Esquadrão Suicida também falamos um pouco sobre o ator Jered Leto o que nos fez lembrar até do idolatrado, imortal e vampiro Nic Cage.</description>
+		<content:encoded><![CDATA[<p>No programa desta semana analisamos o jogo indie Darkest Dungeon, um rogue like com pitadas de gerenciamento de recursos, combates por turno e insanidade.</p>
+<p>E aproveitando a estréia de Esquadrão Suicida também falamos um pouco sobre o ator Jered Leto o que nos fez lembrar até do idolatrado, imortal e vampiro Nic Cage.</p>
+<p>Gostou? Então siga em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-012-Darkest-Dungeon.mp3" length="38307886" type="audio/mpeg" />
+		<itunes:subtitle>No programa desta semana analisamos o jogo indie Darkest Dungeon, um rogue like com pitadas de gerenciamento de recursos, combates por turno e insanidade. - E aproveitando a estréia de Esquadrão Suicida também falamos um pouco sobre o ator Jered Leto ...</itunes:subtitle>
+		<itunes:summary>No programa desta semana analisamos o jogo indie Darkest Dungeon, um rogue like com pitadas de gerenciamento de recursos, combates por turno e insanidade.&lt;br /&gt;
+&lt;br /&gt;
+E aproveitando a estréia de Esquadrão Suicida também falamos um pouco sobre o ator Jered Leto o que nos fez lembrar até do idolatrado, imortal e vampiro Nic Cage.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:39</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #11 &#8211; Broforce e os filmes de ação dos anos 80</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-11-broforce-e-os-filmes-de-acao-dos-anos-80</link>
+		<pubDate>Fri, 29 Jul 2016 23:29:31 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=57</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-11-broforce-e-os-filmes-de-acao-dos-anos-80#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-11-broforce-e-os-filmes-de-acao-dos-anos-80/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Braddock]]></category>
+		<category><![CDATA[Broforce]]></category>
+		<category><![CDATA[Filmes anos 80]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Predador]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Rambo]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>Para homenagear o bombardeio cultural norte-americano que passamos na decada de 80, Moreira e Prado analisam o patriótico jogo indie Broforce e relembram os filmes de ação da década de 80: Rambo, Braddock, Comando para Matar, Predador, entre outros clássicos que ajudaram a moldar o caráter de toda criança e adolescente da década de 80.</description>
+		<content:encoded><![CDATA[<p>Para homenagear o bombardeio cultural norte-americano que passamos na decada de 80, Moreira e Prado analisam o patriótico jogo indie Broforce e relembram os filmes de ação da década de 80: Rambo, Braddock, Comando para Matar, Predador, entre outros clássicos que ajudaram a moldar o caráter de toda criança e adolescente da década de 80.</p>
+<p>Siga-nos em:</p>
+<ul>
+<li>Twitter &#8211; <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></li>
+<li>Facebook &#8211; <a href="https://www.facebook.com/indiecastcombr">facebook.com/indiecastcombr</a></li>
+</ul>
+<p>Músicas:</p>
+<ul>
+<li>Heading West by <a href="http://audionautix.com/">Audionautix</a> is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a></li>
+<li><a href="http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100475">Feelin Good</a> by <a href="http://incompetech.com/">Kevin MacLeod</a> is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-011-Broforce-filmes-acao-anos80.mp3" length="40768838" type="audio/mpeg" />
+		<itunes:subtitle>Para homenagear o bombardeio cultural norte-americano que passamos na decada de 80, Moreira e Prado analisam o patriótico jogo indie Broforce e relembram os filmes de ação da década de 80: Rambo, Braddock, Comando para Matar, Predador,</itunes:subtitle>
+		<itunes:summary>Para homenagear o bombardeio cultural norte-americano que passamos na decada de 80, Moreira e Prado analisam o patriótico jogo indie Broforce e relembram os filmes de ação da década de 80: Rambo, Braddock, Comando para Matar, Predador, entre outros clássicos que ajudaram a moldar o caráter de toda criança e adolescente da década de 80.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:27</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #10 &#8211; Viagem no tempo e Life is Strange</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-10-viagem-no-tempo-e-life-is-strange</link>
+		<pubDate>Fri, 22 Jul 2016 23:26:02 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=54</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-10-viagem-no-tempo-e-life-is-strange#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-10-viagem-no-tempo-e-life-is-strange/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Futuro]]></category>
+		<category><![CDATA[Life is Strange]]></category>
+		<category><![CDATA[passado]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Viagem no tempo]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>O que você faria se pudesse alterar o passado? Já pensou nas consequências negativas dessas mudanças?
+
+No programa desta semana Prado e Moreira conversam sobre viagem no tempo, efeito borboleta e o jogo Life is Strange que explorou esses temas.</description>
+		<content:encoded><![CDATA[<p>O que você faria se pudesse alterar o passado? Já pensou nas consequências negativas dessas mudanças?</p>
+<p>No programa desta semana Prado e Moreira conversam sobre viagem no tempo, efeito borboleta e o jogo Life is Strange que explorou esses temas.</p>
+<p>Nosso maior programa até agora marca a mudança de dia do lançamento do Indiecast &#8211; agora todas as sextas-feiras.</p>
+<p>Ajude o Indiecast a crescer e atingir um público maior, compartilhando nosso podcast com seus amigos e siguindo-nos em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a> e no no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></p>
+<p>Não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-010-Viagem-no-tempo-e-Life-is-Strange.mp3" length="55619794" type="audio/mpeg" />
+		<itunes:subtitle>O que você faria se pudesse alterar o passado? Já pensou nas consequências negativas dessas mudanças? - No programa desta semana Prado e Moreira conversam sobre viagem no tempo, efeito borboleta e o jogo Life is Strange que explorou esses temas.</itunes:subtitle>
+		<itunes:summary>O que você faria se pudesse alterar o passado? Já pensou nas consequências negativas dessas mudanças?&lt;br /&gt;
+&lt;br /&gt;
+No programa desta semana Prado e Moreira conversam sobre viagem no tempo, efeito borboleta e o jogo Life is Strange que explorou esses temas.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:32:49</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #9 &#8211; Archer, Nasa e Kerbal Space Program</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-9-archer-nasa-e-kerbal-space-program</link>
+		<pubDate>Sun, 17 Jul 2016 23:19:01 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=51</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-9-archer-nasa-e-kerbal-space-program#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-9-archer-nasa-e-kerbal-space-program/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Archer]]></category>
+		<category><![CDATA[Kerbal Space Program]]></category>
+		<category><![CDATA[Nasa]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>Quem não queria ser astronauta na infância? No programa desta semana Moreira e Prado falam sobre o jogo indie Kerbal Space Program, com pitadas de NASA e um pouco de Archer.</description>
+		<content:encoded><![CDATA[<p>Quem não queria ser astronauta na infância? No programa desta semana Moreira e Prado falam sobre o jogo indie Kerbal Space Program, com pitadas de NASA e um pouco de Archer.</p>
+<p>Ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus companheiros e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+<p>Créditos da música de encerramento:</p>
+<p>Light Awash Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-009-Archer-Nasa-e-Kerbal-Space-Program.mp3" length="27000000" type="audio/mpeg" />
+		<itunes:subtitle>Quem não queria ser astronauta na infância? No programa desta semana Moreira e Prado falam sobre o jogo indie Kerbal Space Program, com pitadas de NASA e um pouco de Archer.</itunes:subtitle>
+		<itunes:summary>Quem não queria ser astronauta na infância? No programa desta semana Moreira e Prado falam sobre o jogo indie Kerbal Space Program, com pitadas de NASA e um pouco de Archer.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:52</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #8 &#8211; Papers Please</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-8-papers-please</link>
+		<pubDate>Sun, 10 Jul 2016 23:09:33 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=48</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-8-papers-please#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-8-papers-please/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Arstotzka]]></category>
+		<category><![CDATA[Papers Please]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Rússia]]></category>
+		<category><![CDATA[União Soviética]]></category>
+		<description>Gloria a Arstotzka! No episódio de hoje Guilherme Moreira e Guilherme Prado se curvam diante do poder da gloriosa, gigante e imponente Arstotzka. Seja uma peça importante no processo de abertura das fronteiras da nação mais importante do planeta.</description>
+		<content:encoded><![CDATA[<p>Gloria a Arstotzka! No episódio de hoje Guilherme Moreira e Guilherme Prado se curvam diante do poder da gloriosa, gigante e imponente Arstotzka. Seja uma peça importante no processo de abertura das fronteiras da nação mais importante do planeta.</p>
+<p>Camarada! Ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus companheiros e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+<p>Glória a Arstotzka!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-008-Papers-Please.mp3" length="26650879" type="audio/mpeg" />
+		<itunes:subtitle>Gloria a Arstotzka! No episódio de hoje Guilherme Moreira e Guilherme Prado se curvam diante do poder da gloriosa, gigante e imponente Arstotzka. Seja uma peça importante no processo de abertura das fronteiras da nação mais importante do planeta.</itunes:subtitle>
+		<itunes:summary>Gloria a Arstotzka! No episódio de hoje Guilherme Moreira e Guilherme Prado se curvam diante do poder da gloriosa, gigante e imponente Arstotzka. Seja uma peça importante no processo de abertura das fronteiras da nação mais importante do planeta.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>39:30</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #7 &#8211; Rocket League</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-7-rocket-league</link>
+		<pubDate>Sun, 03 Jul 2016 23:05:57 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=45</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-7-rocket-league#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-7-rocket-league/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Rocket League]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>Neste podcast Guilherme Moreira e Guilherme Prado discutem as loucuras do jogo Rocket League que mistura foguetes, futebol, hockey e basquete com carrinhos de controle remoto, além de comentarem um pouco sobre a Steam Summer Sale.</description>
+		<content:encoded><![CDATA[<p>Neste podcast Guilherme Moreira e Guilherme Prado discutem as loucuras do jogo Rocket League que mistura foguetes, futebol, hockey e basquete com carrinhos de controle remoto, além de comentarem um pouco sobre a Steam Summer Sale.</p>
+<p>Ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-007-Rocket-League.mp3" length="20257644" type="audio/mpeg" />
+		<itunes:subtitle>Neste podcast Guilherme Moreira e Guilherme Prado discutem as loucuras do jogo Rocket League que mistura foguetes, futebol, hockey e basquete com carrinhos de controle remoto, além de comentarem um pouco sobre a Steam Summer Sale.</itunes:subtitle>
+		<itunes:summary>Neste podcast Guilherme Moreira e Guilherme Prado discutem as loucuras do jogo Rocket League que mistura foguetes, futebol, hockey e basquete com carrinhos de controle remoto, além de comentarem um pouco sobre a Steam Summer Sale.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>35:36</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast 006 &#8211; Silicon &#038; Synapse</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-006-silicon-synapse</link>
+		<pubDate>Sun, 26 Jun 2016 21:05:03 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=35</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-006-silicon-synapse#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-006-silicon-synapse/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Blizzard]]></category>
+		<category><![CDATA[Diablo]]></category>
+		<category><![CDATA[Rock n'Roll Racing]]></category>
+		<category><![CDATA[Silicon & Synapse]]></category>
+		<category><![CDATA[World of Warcraft]]></category>
+		<description>Guilherme Moreira e Guilherme Prado relembram a história da Silicon &amp; Synapse: uma pequena desenvolvedora de jogos que criou dois grandes jogos da era 16 bits(Rock n’ Roll Racing e The Lost Vikings) e que viria a se tornar uma das maiores empresas de jogos do mundo.</description>
+		<content:encoded><![CDATA[<p>Guilherme Moreira e Guilherme Prado relembram a história da Silicon &amp; Synapse: uma pequena desenvolvedora de jogos que criou dois grandes jogos da era 16 bits(Rock n’ Roll Racing e The Lost Vikings) e que viria a se tornar uma das maiores empresas de jogos do mundo.</p>
+<p>Ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Também não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-006-Silicon-and-Synapse.mp3" length="24616353" type="audio/mpeg" />
+		<itunes:subtitle>Guilherme Moreira e Guilherme Prado relembram a história da Silicon &amp; Synapse: uma pequena desenvolvedora de jogos que criou dois grandes jogos da era 16 bits(Rock n’ Roll Racing e The Lost Vikings) e que viria a se tornar uma das maiores empresas de j...</itunes:subtitle>
+		<itunes:summary>Guilherme Moreira e Guilherme Prado relembram a história da Silicon &amp; Synapse: uma pequena desenvolvedora de jogos que criou dois grandes jogos da era 16 bits(Rock n’ Roll Racing e The Lost Vikings) e que viria a se tornar uma das maiores empresas de jogos do mundo.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>37:06</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #5 &#8211; Especial E3</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-5-especial-e3</link>
+		<pubDate>Sun, 19 Jun 2016 21:01:22 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=32</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-5-especial-e3#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-5-especial-e3/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Bethesda]]></category>
+		<category><![CDATA[E3]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Playstation VR]]></category>
+		<category><![CDATA[Sony]]></category>
+		<category><![CDATA[VR]]></category>
+		<description>Nesta edição especial Guilherme Moreira e Guilherme Prado falam sobre os anúncios, jogos, consoles e mistérios da E3..
+
+E você, o que achou da E3? Qual jogo achou mais interessante? Gostou do PS VR? E do Project Scorpio? Deixe seu comentário!</description>
+		<content:encoded><![CDATA[<p>Nesta edição especial Guilherme Moreira e Guilherme Prado falam sobre os anúncios, jogos, consoles e mistérios da E3..</p>
+<p>E você, o que achou da E3? Qual jogo achou mais interessante? Gostou do PS VR? E do Project Scorpio? Deixe seu comentário!</p>
+<p>Por favor ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Também não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-005-Especial-E3.mp3" length="39891279" type="audio/mpeg" />
+		<itunes:subtitle>Nesta edição especial Guilherme Moreira e Guilherme Prado falam sobre os anúncios, jogos, consoles e mistérios da E3.. - E você, o que achou da E3? Qual jogo achou mais interessante? Gostou do PS VR? E do Project Scorpio? Deixe seu comentário!</itunes:subtitle>
+		<itunes:summary>Nesta edição especial Guilherme Moreira e Guilherme Prado falam sobre os anúncios, jogos, consoles e mistérios da E3..&lt;br /&gt;
+&lt;br /&gt;
+E você, o que achou da E3? Qual jogo achou mais interessante? Gostou do PS VR? E do Project Scorpio? Deixe seu comentário!</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:19</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #4 &#8211; Especial de dia dos namorados</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-4-especial-de-dia-dos-namorados</link>
+		<pubDate>Sun, 12 Jun 2016 20:16:52 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=25</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-4-especial-de-dia-dos-namorados#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-4-especial-de-dia-dos-namorados/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Dia dos namorados]]></category>
+		<category><![CDATA[Emily is away]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Save the date]]></category>
+		<description>Nesta edição especial de dia dos namorados Guilherme Moreira e Guilherme Prado falam de casais importantes do mundo dos games e analisam os jogos Save the Date e Emily is away.
+
+Não se esqueça de comentar casais que vocês achem interessantes!</description>
+		<content:encoded><![CDATA[<p>Nesta edição especial de dia dos namorados Guilherme Moreira e Guilherme Prado falam de casais importantes do mundo dos games e analisam os jogos Save the Date e Emily is away.</p>
+<p>Não se esqueça de comentar casais que vocês achem interessantes!</p>
+<p>Por favor ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Também não se esqueça de assinar o podcast na <a href="https://itunes.apple.com/br/podcast/indiecast/id1116449758">itunes</a> ou no seu cliente preferido do android procurando por indiecast.</p>
+<p>Links dos jogos:</p>
+<p><a href="http://emilyisaway.com/">Emily is away</a> ou <a href="http://store.steampowered.com/app/417860">na steam</a>.</p>
+<p>Save the date &#8211; indisponível temporariamente, o site do desenvolvedor foi hackeado 🙁</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-004-Especial-dia-dos-namorados.mp3" length="35915107" type="audio/mpeg" />
+		<itunes:subtitle>Nesta edição especial de dia dos namorados Guilherme Moreira e Guilherme Prado falam de casais importantes do mundo dos games e analisam os jogos Save the Date e Emily is away. - Não se esqueça de comentar casais que vocês achem interessantes!</itunes:subtitle>
+		<itunes:summary>Nesta edição especial de dia dos namorados Guilherme Moreira e Guilherme Prado falam de casais importantes do mundo dos games e analisam os jogos Save the Date e Emily is away.&lt;br /&gt;
+&lt;br /&gt;
+Não se esqueça de comentar casais que vocês achem interessantes!</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:26</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #3 &#8211; Firewatch</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-3-firewatch</link>
+		<pubDate>Sun, 05 Jun 2016 20:13:32 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=22</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-3-firewatch#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-3-firewatch/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Campo Santo]]></category>
+		<category><![CDATA[Firewatch]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[XOne]]></category>
+		<description>Nesta edição Guilherme Moreira e Guilherme Prado analisam o jogo Firewatch. Será que temos um dos melhores indies do ano?</description>
+		<content:encoded><![CDATA[<p>Nesta edição Guilherme Moreira e Guilherme Prado analisam o jogo Firewatch. Será que temos um dos melhores indies do ano?</p>
+<p>Por favor ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a> e em nossa <a href="https://www.facebook.com/indiecastcombr">página no facebook</a></p>
+<p>Não se esqueça de assinar o podcast no itunes ou no seu cliente preferido do android procurando por indiecast .</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-003-Firewatch.mp3" length="42922153" type="audio/mpeg" />
+		<itunes:subtitle>Nesta edição Guilherme Moreira e Guilherme Prado analisam o jogo Firewatch. Será que temos um dos melhores indies do ano?</itunes:subtitle>
+		<itunes:summary>Nesta edição Guilherme Moreira e Guilherme Prado analisam o jogo Firewatch. Será que temos um dos melhores indies do ano?</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:08:23</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #2 &#8211; Enter the Gungeon e nosso áudio bugado</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-2-enter-the-gungeon-e-nosso-audio-bugado</link>
+		<pubDate>Sun, 29 May 2016 20:08:14 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=19</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-2-enter-the-gungeon-e-nosso-audio-bugado#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-2-enter-the-gungeon-e-nosso-audio-bugado/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Bullet hell]]></category>
+		<category><![CDATA[Enter the gungeon]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PS4]]></category>
+		<category><![CDATA[Roguelite]]></category>
+		<description>Nessa edição vamos falar sobre o badalado jogo Enter the Gungeon!
+
+Guilherme Prado e Guilherme Moreira comentam o que acharam desse roguelike/bullet hell, super difícil que é o Enter the Gungeon.
+
+Obrigado por nos ouvir, mesmo com nosso áudio todo bugado, mas prometemos que nosso novo microfone chegou e o episódio 3 estará com o áudio melhor.</description>
+		<content:encoded><![CDATA[<p>Nessa edição vamos falar sobre o badalado jogo Enter the Gungeon!</p>
+<p>Guilherme Prado e Guilherme Moreira comentam o que acharam desse roguelike/bullet hell, super difícil que é o Enter the Gungeon.</p>
+<p>Obrigado por nos ouvir, mesmo com nosso áudio todo bugado, mas prometemos que nosso novo microfone chegou e o episódio 3 estará com o áudio melhor.</p>
+<p>Por favor ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos e siga-nos no twitter <a href="https://twitter.com/indiecastcombr">@indiecastcombr</a></p>
+<p>Não se esqueça de assinar o podcast no itunes ou no seu cliente preferido do android procurando por indiecast!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-002.mp3" length="49599893" type="audio/mpeg" />
+		<itunes:subtitle>Nessa edição vamos falar sobre o badalado jogo Enter the Gungeon! - Guilherme Prado e Guilherme Moreira comentam o que acharam desse roguelike/bullet hell, super difícil que é o Enter the Gungeon. - Obrigado por nos ouvir,</itunes:subtitle>
+		<itunes:summary>Nessa edição vamos falar sobre o badalado jogo Enter the Gungeon!&lt;br /&gt;
+&lt;br /&gt;
+Guilherme Prado e Guilherme Moreira comentam o que acharam desse roguelike/bullet hell, super difícil que é o Enter the Gungeon.&lt;br /&gt;
+&lt;br /&gt;
+Obrigado por nos ouvir, mesmo com nosso áudio todo bugado, mas prometemos que nosso novo microfone chegou e o episódio 3 estará com o áudio melhor.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>57:34</itunes:duration>
+		</item>
+	<item>
+		<title>Indiecast #1 &#8211; O Começo de tudo e Super Meat Boy</title>
+		<link>https://indiecast.com.br/indiecast/indiecast-1-o-comeco-de-tudo-e-super-meat-boy</link>
+		<pubDate>Sun, 22 May 2016 19:55:37 +0000</pubDate>
+		<guid isPermaLink="false">https://v2.indiecast.com.br/?p=11</guid>
+		<comments>https://indiecast.com.br/indiecast/indiecast-1-o-comeco-de-tudo-e-super-meat-boy#respond</comments>
+		<wfw:commentRss>https://indiecast.com.br/indiecast/indiecast-1-o-comeco-de-tudo-e-super-meat-boy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Indiecast]]></category>
+		<category><![CDATA[Plataforma]]></category>
+		<category><![CDATA[Super Meat Boy]]></category>
+		<category><![CDATA[Team Meat]]></category>
+		<description>Saudações as desbravadoras e desbravadores que descobriram este podcast!
+
+No podcast de estreia Guilherme Moreira e Guilherme Prado falam sobre o o projeto indiecast e analisam o clássico jogo indie Super Meat Boy.</description>
+		<content:encoded><![CDATA[<p>Saudações as desbravadoras e desbravadores que descobriram este podcast!</p>
+<p>No podcast de estreia Guilherme Moreira e Guilherme Prado falam sobre o o projeto indiecast e analisam o clássico jogo indie Super Meat Boy.</p>
+<p>Obrigado por nos ouvir e não esqueça de deixar seu comentário!</p>
+<p>Por favor ajude o Indiecast a crescer e atingir um público maior, compartilhe nosso podcast com seus amigos.</p>
+<p>Não se esqueça de assinar o podcast no itunes ou no seu cliente preferido do android procurando por indiecast!</p>
+]]></content:encoded>
+		<enclosure url="https://indiecast.com.br/download/Indiecast-001.mp3" length="46242996" type="audio/mpeg" />
+		<itunes:subtitle>Saudações as desbravadoras e desbravadores que descobriram este podcast! - No podcast de estreia Guilherme Moreira e Guilherme Prado falam sobre o o projeto indiecast e analisam o clássico jogo indie Super Meat Boy.</itunes:subtitle>
+		<itunes:summary>Saudações as desbravadoras e desbravadores que descobriram este podcast!&lt;br /&gt;
+&lt;br /&gt;
+No podcast de estreia Guilherme Moreira e Guilherme Prado falam sobre o o projeto indiecast e analisam o clássico jogo indie Super Meat Boy.</itunes:summary>
+		<itunes:author>Indiecast</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>53:22</itunes:duration>
+		</item>
+</channel>
+</rss>
